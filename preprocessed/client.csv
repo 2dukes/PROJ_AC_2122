@@ -809,7 +809,7 @@ client_id,district_id,gender,age_group
 851,25,M,forth-age
 852,25,F,forth-age
 853,70,M,third-age
-854,72,F,third-age
+854,72,F,forth-age
 855,58,M,forth-age
 856,23,M,forth-age
 857,32,M,third-age
@@ -1438,7 +1438,7 @@ client_id,district_id,gender,age_group
 1517,66,M,third-age
 1518,3,F,half-age
 1519,3,M,half-age
-1520,72,M,half-age
+1520,72,M,third-age
 1521,5,M,half-age
 1522,52,F,half-age
 1523,29,F,forth-age
@@ -1693,7 +1693,7 @@ client_id,district_id,gender,age_group
 1794,54,F,forth-age
 1795,38,F,half-age
 1796,10,M,forth-age
-1797,10,F,third-age
+1797,10,F,forth-age
 1798,70,M,forth-age
 1799,36,M,half-age
 1800,63,F,third-age
@@ -5170,7 +5170,7 @@ client_id,district_id,gender,age_group
 11359,11,M,half-age
 11360,11,F,half-age
 11362,51,F,half-age
-11371,37,F,third-age
+11371,37,F,forth-age
 11372,11,M,half-age
 11379,74,M,third-age
 11380,74,F,third-age
