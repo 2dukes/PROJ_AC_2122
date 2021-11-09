@@ -231,7 +231,7 @@ loan_id,years_since_loan,amount,duration,payments,status,balance,frequency,years
 7189,25,154656,48,3222,1,37180.5,monthly issuance,26,north Moravia,161227,5,35,10,69.7,8678,102,5.75,4787.5,46,OWNER,M,half-age
 6816,25,100224,48,2088,-1,31387.1,monthly issuance,25,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,half-age
 6137,25,44628,12,3719,1,80439.7,weekly issuance,27,central Bohemia,53921,61,22,2,41.3,8598,123,3.0149999999999997,1736.0,23,OWNER,M,third-age
-5128,25,215616,48,4492,-1,8640.6,monthly issuance,26,north Moravia,42821,4,13,3,48.4,8173,124,5.398506493506494,3194.4155844155844,18,OWNER,M,half-age
+5128,25,215616,48,4492,-1,8640.6,monthly issuance,26,north Moravia,42821,4,13,3,48.4,8173,124,6.554555960625769,1379.5,18,OWNER,M,half-age
 5470,25,200976,48,4187,1,47431.4,monthly issuance,26,south Moravia,114200,101,41,4,43.7,8403,105,5.73,2437.5,45,OWNER,M,third-age
 5593,25,277884,36,7719,-1,11614.0,monthly issuance,27,east Bohemia,105606,77,26,7,53.0,8254,97,3.275,2245.5,33,OWNER,F,half-age
 5350,25,249312,48,5194,1,55426.5,weekly issuance,26,west Bohemia,170449,0,0,1,100.0,10787,131,2.865,6151.0,0,OWNER,M,third-age
@@ -276,7 +276,7 @@ loan_id,years_since_loan,amount,duration,payments,status,balance,frequency,years
 7246,25,148920,60,2482,1,15278.6,weekly issuance,25,south Moravia,108871,41,29,6,62.1,8444,106,3.3550000000000004,2450.0,36,OWNER,M,half-age
 5088,25,91152,24,3798,1,39378.8,monthly issuance,26,north Bohemia,105058,32,19,10,81.0,9272,118,3.01,4422.5,26,OWNER,M,third-age
 5988,25,141648,24,5902,1,123310.1,monthly issuance,25,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,third-age
-5282,25,388512,48,8094,-1,38697.3,issuance after transaction,26,north Moravia,42821,4,13,3,48.4,8173,124,5.398506493506494,3194.4155844155844,18,OWNER,F,half-age
+5282,25,388512,48,8094,-1,38697.3,issuance after transaction,26,north Moravia,42821,4,13,3,48.4,8173,124,6.554555960625769,1379.5,18,OWNER,F,half-age
 5938,25,402000,60,6700,1,17232.1,monthly issuance,26,central Bohemia,149893,63,29,6,67.4,9753,109,4.845,5568.0,35,OWNER,M,half-age
 5606,25,253512,36,7042,-1,13318.4,weekly issuance,25,south Moravia,108871,41,29,6,62.1,8444,106,3.3550000000000004,2450.0,36,OWNER,F,third-age
 5385,25,71460,36,1985,1,49663.5,monthly issuance,25,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
@@ -286,7 +286,7 @@ loan_id,years_since_loan,amount,duration,payments,status,balance,frequency,years
 7194,25,68832,36,1912,1,51540.7,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
 6461,25,74124,36,2059,1,25658.0,weekly issuance,26,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,F,forth-age
 6732,25,174048,48,3626,1,54140.4,monthly issuance,26,east Bohemia,162580,83,26,6,72.8,9538,111,1.6600000000000001,5744.5,31,OWNER,F,third-age
-6613,25,84120,24,3505,1,45528.9,weekly issuance,25,north Moravia,42821,4,13,3,48.4,8173,124,5.398506493506494,3194.4155844155844,18,OWNER,F,third-age
+6613,25,84120,24,3505,1,45528.9,weekly issuance,25,north Moravia,42821,4,13,3,48.4,8173,124,6.554555960625769,1379.5,18,OWNER,F,third-age
 7036,25,194940,36,5415,1,34212.3,monthly issuance,26,central Bohemia,112065,95,19,8,69.4,11277,127,1.345,5083.0,26,OWNER,M,half-age
 5897,25,15192,24,633,1,17351.9,monthly issuance,26,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,F,half-age
 6995,25,96168,12,8014,1,3609.3,weekly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,half-age
