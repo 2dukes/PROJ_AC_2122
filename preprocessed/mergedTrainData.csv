@@ -1,329 +1,329 @@
-loan_id,years_since_loan,amount,duration,payments,status,balance,frequency,years_since_acc_open,name,region,no. of inhabitants,no. of municipalities with inhabitants < 499 ,no. of municipalities with inhabitants 500-1999,no. of municipalities with inhabitants 2000-9999 ,no. of municipalities with inhabitants >10000 ,no. of cities ,ratio of urban inhabitants ,average salary ,unemploymant rate '95 ,unemploymant rate '96 ,no. of enterpreneurs per 1000 inhabitants ,no. of commited crimes '95 ,no. of commited crimes '96 ,type,gender,age_group
-5314,28,96396,12,8033,-1,20100.0,weekly issuance,28,Sokolov,west Bohemia,94812,15,13,8,2,10,81.8,9650,3.38,3.67,100,2985,2804,OWNER,F,third-age
-5316,28,165960,36,4610,1,52208.9,monthly issuance,28,Nachod,east Bohemia,112709,48,20,7,3,10,73.5,8369,1.79,2.31,117,2854,2618,OWNER,M,half-age
-6863,28,127080,60,2118,1,20272.8,monthly issuance,28,Jicin,east Bohemia,77917,85,19,6,1,5,53.5,8390,2.28,2.89,132,2080,2122,OWNER,M,forth-age
-5325,28,105804,36,2939,1,34307.3,monthly issuance,28,Pribram,central Bohemia,107870,84,29,6,1,6,58.0,8754,3.83,4.31,137,3804,3868,OWNER,F,forth-age
-7240,28,274740,60,4579,1,41142.9,weekly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-6687,28,87840,24,3660,1,43847.8,monthly issuance,28,Rakovnik,central Bohemia,53921,61,22,1,1,2,41.3,8598,2.77,3.26,123,1597,1875,OWNER,F,half-age
-7284,28,52788,12,4399,1,21029.0,monthly issuance,28,Cesky Krumlov,south Bohemia,58796,22,16,7,1,5,51.9,9045,3.13,3.6,124,1845,1879,OWNER,M,half-age
-6111,28,174744,24,7281,-1,58140.9,monthly issuance,28,Karlovy Vary,west Bohemia,122603,25,21,6,2,8,80.0,8991,1.39,2.01,128,5198,5273,OWNER,F,third-age
-7235,28,154416,48,3217,1,53402.7,weekly issuance,28,Pisek,south Bohemia,70699,60,13,2,1,4,65.3,8968,2.83,3.35,131,1740,1910,OWNER,F,half-age
-5997,28,117024,24,4876,1,53193.5,monthly issuance,28,Ceske Budejovice,south Bohemia,177686,69,27,10,1,9,74.8,10045,1.42,1.71,135,6604,6295,OWNER,M,forth-age
-7121,27,21924,36,609,1,49083.3,monthly issuance,28,Brno - venkov,south Moravia,157042,49,70,18,0,9,33.9,8743,1.88,2.43,111,3659,3894,OWNER,M,half-age
-6077,27,79608,24,3317,1,103745.7,monthly issuance,28,Chrudim,east Bohemia,105606,77,26,7,2,7,53.0,8254,2.79,3.76,97,2166,2325,OWNER,M,half-age
-6228,27,464520,60,7742,-1,121600.3,weekly issuance,28,Kutna Hora,central Bohemia,77963,60,23,4,2,4,51.5,8546,2.95,4.02,126,2640,3120,OWNER,F,forth-age
-6356,27,95400,36,2650,1,27697.0,weekly issuance,28,Semily,east Bohemia,75685,31,28,5,1,9,60.8,8208,1.89,2.26,155,1660,2123,OWNER,M,half-age
-5523,27,93888,36,2608,1,34716.3,issuance after transaction,28,Vyskov,south Moravia,86513,38,36,5,1,5,50.5,8288,3.79,4.52,110,1562,1460,OWNER,F,third-age
-6456,27,47016,12,3918,1,58773.2,issuance after transaction,28,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,half-age
-7104,27,259740,60,4329,1,67219.5,monthly issuance,28,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,M,half-age
-6820,27,38148,12,3179,1,47725.8,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6876,27,86616,12,7218,1,37253.1,monthly issuance,28,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,M,half-age
-7097,27,75624,24,3151,-1,41954.8,monthly issuance,28,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,half-age
-4959,27,80952,24,3373,1,27855.2,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,third-age
-6499,27,80952,24,3373,1,28763.7,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,third-age
-5479,27,24516,12,2043,1,78656.2,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-5170,27,253200,60,4220,1,81150.6,weekly issuance,28,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,F,third-age
-6721,27,21072,24,878,1,30867.0,monthly issuance,28,Kladno,central Bohemia,149893,63,29,6,2,6,67.4,9753,4.64,5.05,109,5244,5892,OWNER,F,half-age
-7259,27,108144,36,3004,1,21921.3,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-5285,27,78936,12,6578,1,24601.0,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-5189,27,149040,48,3105,1,19033.5,monthly issuance,28,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,F,half-age
-6650,27,49320,12,4110,-1,15673.6,issuance after transaction,28,Karlovy Vary,west Bohemia,122603,25,21,6,2,8,80.0,8991,1.39,2.01,128,5198,5273,OWNER,F,third-age
-7226,27,197748,36,5493,1,43294.5,monthly issuance,28,Svitavy,east Bohemia,102609,75,33,2,3,6,52.0,8187,4.83,5.45,94,2123,2134,OWNER,F,half-age
-6087,27,300660,60,5011,1,33918.9,monthly issuance,28,Teplice,north Bohemia,128118,9,16,6,3,8,85.3,9317,6.49,7.07,97,6949,6872,OWNER,M,third-age
-7262,27,182628,36,5073,1,45660.9,monthly issuance,28,Prerov,north Moravia,138032,67,30,4,2,5,64.6,8819,5.38,5.66,99,4063,4505,OWNER,M,half-age
-5519,27,91632,12,7636,1,33061.9,monthly issuance,28,Melnik,central Bohemia,94725,38,28,1,3,6,63.4,9920,2.26,2.87,130,4289,4846,OWNER,F,half-age
-6577,27,51696,24,2154,1,38202.2,monthly issuance,28,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,F,half-age
-6509,27,55368,24,2307,1,12414.4,monthly issuance,28,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,forth-age
-6520,27,91200,24,3800,1,32715.3,monthly issuance,28,Most,north Bohemia,119895,17,4,3,2,4,89.9,10446,7.34,9.4,90,4947,4743,OWNER,F,third-age
-6699,27,7656,24,319,1,36353.1,monthly issuance,28,Rychnov nad Kneznou,east Bohemia,78955,50,24,8,1,9,59.0,9060,1.78,2.44,124,1655,1717,OWNER,F,half-age
-6336,27,212400,36,5900,1,64221.1,weekly issuance,28,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,F,half-age
-7055,27,167100,60,2785,1,39310.2,monthly issuance,28,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,F,half-age
-6103,27,149340,60,2489,1,23538.3,weekly issuance,28,Chrudim,east Bohemia,105606,77,26,7,2,7,53.0,8254,2.79,3.76,97,2166,2325,OWNER,M,half-age
-6202,27,65184,12,5432,1,67995.4,monthly issuance,28,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,half-age
-7066,27,215388,36,5983,-1,30662.8,monthly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-6696,27,89040,60,1484,1,29305.8,monthly issuance,28,Vsetin,north Moravia,148545,8,35,12,3,4,53.5,8909,4.01,5.56,113,3460,3590,OWNER,F,half-age
-6072,27,193968,36,5388,1,80780.0,issuance after transaction,28,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,half-age
-5130,27,24312,12,2026,1,28461.9,monthly issuance,28,Jindrichuv Hradec,south Bohemia,93931,74,21,10,1,8,56.9,8427,1.12,1.54,107,1874,1913,OWNER,F,third-age
-5568,27,272520,60,4542,1,30009.9,monthly issuance,28,Praha - vychod,central Bohemia,92084,55,29,4,3,5,46.7,10124,0.56,0.54,141,3810,4316,OWNER,M,forth-age
-6678,27,80340,12,6695,1,89342.6,monthly issuance,28,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,F,half-age
-6998,27,97632,12,8136,1,41330.1,monthly issuance,28,Strakonice,south Bohemia,70646,94,14,3,1,4,58.4,8547,2.65,3.64,120,1563,1542,OWNER,F,half-age
-6580,27,196080,48,4085,1,86857.4,monthly issuance,28,Cheb,west Bohemia,87419,21,11,4,3,9,85.5,8624,1.79,2.66,102,2879,3198,OWNER,M,half-age
-6316,27,76908,12,6409,-1,14888.6,monthly issuance,28,Pribram,central Bohemia,107870,84,29,6,1,6,58.0,8754,3.83,4.31,137,3804,3868,OWNER,F,third-age
-6512,27,63312,48,1319,1,28553.5,monthly issuance,28,Kladno,central Bohemia,149893,63,29,6,2,6,67.4,9753,4.64,5.05,109,5244,5892,OWNER,F,third-age
-6407,27,25944,24,1081,1,69398.9,monthly issuance,28,Usti nad Labem,north Bohemia,118650,8,8,5,1,3,85.6,9832,3.32,4.48,114,6445,5471,OWNER,F,half-age
-5002,27,104808,12,8734,1,28015.4,monthly issuance,27,Zdar nad Sazavou,south Moravia,125832,151,41,2,3,5,48.3,8512,3.51,4.12,102,2247,2103,OWNER,M,forth-age
-6647,27,208320,48,4340,1,44213.1,weekly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-7137,27,151560,24,6315,1,21323.2,monthly issuance,27,Zdar nad Sazavou,south Moravia,125832,151,41,2,3,5,48.3,8512,3.51,4.12,102,2247,2103,OWNER,M,third-age
-6903,27,52128,24,2172,1,58844.8,monthly issuance,28,Sokolov,west Bohemia,94812,15,13,8,2,10,81.8,9650,3.38,3.67,100,2985,2804,OWNER,F,half-age
-5918,27,300204,36,8339,1,33932.8,monthly issuance,28,Plzen - jih,west Bohemia,67298,71,19,10,0,7,43.8,8561,0.65,1.29,110,1029,1127,OWNER,M,half-age
-6642,27,77640,12,6470,1,30825.8,weekly issuance,28,Chrudim,east Bohemia,105606,77,26,7,2,7,53.0,8254,2.79,3.76,97,2166,2325,OWNER,M,half-age
-6210,27,87216,48,1817,-1,21691.3,monthly issuance,27,Cesky Krumlov,south Bohemia,58796,22,16,7,1,5,51.9,9045,3.13,3.6,124,1845,1879,OWNER,M,half-age
-6279,27,87360,24,3640,1,29057.9,monthly issuance,28,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,M,half-age
-7249,27,69360,48,1445,1,38665.0,monthly issuance,28,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,M,forth-age
-6736,27,288360,60,4806,1,43450.3,issuance after transaction,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,forth-age
-6112,27,174744,24,7281,-1,6930.8,monthly issuance,28,Chomutov,north Bohemia,125236,28,11,1,4,5,87.7,9675,6.43,7.68,100,5323,5190,OWNER,F,half-age
-5319,27,239460,60,3991,1,36240.6,monthly issuance,28,Teplice,north Bohemia,128118,9,16,6,3,8,85.3,9317,6.49,7.07,97,6949,6872,OWNER,F,third-age
-6596,27,91584,24,3816,1,49842.9,monthly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,third-age
-5837,27,244560,60,4076,1,21326.1,monthly issuance,28,Breclav,south Moravia,124605,11,42,14,1,8,46.0,8772,4.69,4.98,126,2854,3158,OWNER,F,half-age
-5657,27,4980,12,415,1,22500.3,monthly issuance,28,Vyskov,south Moravia,86513,38,36,5,1,5,50.5,8288,3.79,4.52,110,1562,1460,OWNER,F,third-age
-5533,27,111384,24,4641,1,52318.9,monthly issuance,28,Prachatice,south Bohemia,51428,50,11,3,1,4,52.7,8402,3.13,3.98,120,999,1099,OWNER,M,half-age
-6232,27,276660,36,7685,-1,19783.2,monthly issuance,28,Breclav,south Moravia,124605,11,42,14,1,8,46.0,8772,4.69,4.98,126,2854,3158,OWNER,M,third-age
-6888,27,39576,12,3298,1,23901.1,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6066,27,173808,24,7242,1,94431.9,issuance after transaction,28,Vsetin,north Moravia,148545,8,35,12,3,4,53.5,8909,4.01,5.56,113,3460,3590,OWNER,F,half-age
-5549,27,50460,60,841,1,41531.0,monthly issuance,28,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,F,third-age
-5060,27,252060,60,4201,-1,70096.5,monthly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6004,27,143904,24,5996,1,38336.2,monthly issuance,28,Pribram,central Bohemia,107870,84,29,6,1,6,58.0,8754,3.83,4.31,137,3804,3868,OWNER,M,third-age
-5126,27,208128,48,4336,-1,81474.6,monthly issuance,28,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,third-age
-7220,27,131292,36,3647,1,31361.3,weekly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,third-age
-6668,27,74736,36,2076,1,33243.7,monthly issuance,28,Jicin,east Bohemia,77917,85,19,6,1,5,53.5,8390,2.28,2.89,132,2080,2122,OWNER,M,half-age
-5395,27,299088,36,8308,-1,19448.5,monthly issuance,28,Bruntal,north Moravia,106054,38,25,6,2,6,63.1,8110,5.77,6.55,109,3244,3079,OWNER,F,half-age
-6836,27,189300,60,3155,1,24471.4,monthly issuance,28,Pardubice,east Bohemia,162580,83,26,5,1,6,72.8,9538,1.51,1.81,111,6079,5410,OWNER,M,third-age
-6064,27,14628,12,1219,1,34902.8,monthly issuance,28,Brno - venkov,south Moravia,157042,49,70,18,0,9,33.9,8743,1.88,2.43,111,3659,3894,OWNER,F,third-age
-6919,27,120888,36,3358,1,52014.4,weekly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,third-age
-6841,27,172080,48,3585,1,58224.0,monthly issuance,27,Praha - vychod,central Bohemia,92084,55,29,4,3,5,46.7,10124,0.56,0.54,141,3810,4316,OWNER,F,half-age
-6038,27,323472,48,6739,1,69194.4,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,forth-age
-6729,27,74688,12,6224,1,28933.3,monthly issuance,28,Cheb,west Bohemia,87419,21,11,4,3,9,85.5,8624,1.79,2.66,102,2879,3198,OWNER,F,third-age
-7198,27,45768,12,3814,1,54427.5,weekly issuance,27,Bruntal,north Moravia,106054,38,25,6,2,6,63.1,8110,5.77,6.55,109,3244,3079,OWNER,F,half-age
-6686,27,224604,36,6239,1,40287.4,monthly issuance,28,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,M,half-age
-5836,27,79632,24,3318,1,99262.5,monthly issuance,27,Zdar nad Sazavou,south Moravia,125832,151,41,2,3,5,48.3,8512,3.51,4.12,102,2247,2103,OWNER,F,half-age
-7061,27,121896,24,5079,1,41917.2,monthly issuance,28,Brno - venkov,south Moravia,157042,49,70,18,0,9,33.9,8743,1.88,2.43,111,3659,3894,OWNER,M,half-age
-5595,27,82896,12,6908,1,64300.6,monthly issuance,28,Prostejov,south Moravia,110643,49,41,4,1,4,51.9,8441,3.45,4.48,115,1879,2252,OWNER,M,half-age
-5723,27,23628,12,1969,1,64096.3,monthly issuance,28,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,M,third-age
-6120,27,209184,48,4358,1,44254.7,monthly issuance,28,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,M,third-age
-6895,27,41904,12,3492,1,39204.7,monthly issuance,28,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,M,half-age
-5882,27,87816,12,7318,1,15665.6,monthly issuance,28,Ceska Lipa,north Bohemia,105058,32,19,7,2,10,81.0,9272,2.8,3.22,118,4340,4505,OWNER,M,half-age
-5754,27,23052,12,1921,1,28531.7,monthly issuance,28,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,F,forth-age
-6594,27,189696,24,7904,-1,22500.0,monthly issuance,27,Prostejov,south Moravia,110643,49,41,4,1,4,51.9,8441,3.45,4.48,115,1879,2252,OWNER,F,half-age
-6738,27,230220,36,6395,-1,6325.5,monthly issuance,28,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,F,third-age
-6624,27,71460,12,5955,1,82549.0,monthly issuance,27,Brno - venkov,south Moravia,157042,49,70,18,0,9,33.9,8743,1.88,2.43,111,3659,3894,OWNER,M,third-age
-6216,27,141240,24,5885,1,45871.6,monthly issuance,28,Svitavy,east Bohemia,102609,75,33,2,3,6,52.0,8187,4.83,5.45,94,2123,2134,OWNER,M,half-age
-6229,27,11736,24,489,1,26984.4,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,forth-age
-5887,27,192744,36,5354,1,29019.1,monthly issuance,28,Prostejov,south Moravia,110643,49,41,4,1,4,51.9,8441,3.45,4.48,115,1879,2252,OWNER,F,half-age
-6808,27,227880,36,6330,1,53716.6,monthly issuance,28,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,third-age
-6297,27,17508,12,1459,1,48027.0,monthly issuance,28,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,third-age
-5161,27,98184,24,4091,1,68956.1,monthly issuance,27,Znojmo,south Moravia,114200,101,41,4,1,4,43.7,8403,5.74,5.72,105,2157,2718,OWNER,F,third-age
-5390,27,170256,24,7094,1,43302.8,monthly issuance,28,Jindrichuv Hradec,south Bohemia,93931,74,21,10,1,8,56.9,8427,1.12,1.54,107,1874,1913,OWNER,F,half-age
-6150,27,83016,12,6918,1,93605.6,monthly issuance,28,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,M,half-age
-6223,27,61056,48,1272,1,33525.3,monthly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-5032,27,123696,48,2577,1,25201.8,monthly issuance,27,Breclav,south Moravia,124605,11,42,14,1,8,46.0,8772,4.69,4.98,126,2854,3158,OWNER,M,forth-age
-6253,27,59760,24,2490,1,41147.7,monthly issuance,27,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,half-age
-6460,27,48672,36,1352,1,23110.0,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,third-age
-6645,27,140400,36,3900,1,28271.8,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,forth-age
-5176,26,192552,24,8023,-1,22255.5,weekly issuance,28,Strakonice,south Bohemia,70646,94,14,3,1,4,58.4,8547,2.65,3.64,120,1563,1542,OWNER,F,half-age
-5269,26,164052,36,4557,-1,20811.2,issuance after transaction,27,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,F,half-age
-5351,26,205200,36,5700,1,54586.0,weekly issuance,28,Hodonin,south Moravia,161954,21,37,20,3,8,48.0,8720,3.73,4.5,116,3729,3651,OWNER,F,half-age
-5861,26,51408,24,2142,1,49213.4,monthly issuance,27,Rokycany,west Bohemia,45714,52,10,5,1,6,55.6,8843,2.82,3.6,113,818,888,OWNER,M,third-age
-5450,26,199680,60,3328,1,19938.6,monthly issuance,28,Kolin,central Bohemia,95616,65,30,4,1,6,51.4,9307,3.85,4.43,118,2616,3040,OWNER,M,third-age
-7142,26,482940,60,8049,-1,18439.4,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6306,26,36684,12,3057,1,35093.0,monthly issuance,28,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,F,half-age
-6272,26,398640,60,6644,1,59316.9,weekly issuance,28,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,F,half-age
-5044,26,100980,60,1683,1,48637.7,monthly issuance,27,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,half-age
-5576,26,31248,12,2604,1,53922.3,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,forth-age
-7192,26,115992,36,3222,1,9669.5,weekly issuance,28,Jicin,east Bohemia,77917,85,19,6,1,5,53.5,8390,2.28,2.89,132,2080,2122,OWNER,M,forth-age
-5739,26,76380,12,6365,1,23156.6,monthly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6526,26,288468,36,8013,1,48665.3,monthly issuance,27,Vyskov,south Moravia,86513,38,36,5,1,5,50.5,8288,3.79,4.52,110,1562,1460,OWNER,F,half-age
-5624,26,177744,48,3703,-1,14230.7,monthly issuance,28,Novy Jicin,north Moravia,161227,5,35,11,4,10,69.7,8678,5.93,5.57,102,4980,4595,OWNER,M,half-age
-6244,26,270648,36,7518,-1,50996.5,weekly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,forth-age
-5131,26,48624,24,2026,1,47993.6,monthly issuance,28,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,M,half-age
-6960,26,76416,24,3184,1,12262.9,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,forth-age
-6358,26,137880,60,2298,-1,19966.8,weekly issuance,28,Rychnov nad Kneznou,east Bohemia,78955,50,24,8,1,9,59.0,9060,1.78,2.44,124,1655,1717,OWNER,M,half-age
-5418,26,347952,48,7249,1,57546.3,monthly issuance,28,Rokycany,west Bohemia,45714,52,10,5,1,6,55.6,8843,2.82,3.6,113,818,888,OWNER,F,half-age
-6598,26,68112,12,5676,1,39416.1,monthly issuance,28,Prerov,north Moravia,138032,67,30,4,2,5,64.6,8819,5.38,5.66,99,4063,4505,OWNER,F,half-age
-5464,26,95808,12,7984,1,72500.4,monthly issuance,27,Karlovy Vary,west Bohemia,122603,25,21,6,2,8,80.0,8991,1.39,2.01,128,5198,5273,OWNER,M,forth-age
-6591,26,20832,48,434,1,17887.1,monthly issuance,28,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,M,third-age
-5724,26,316140,60,5269,-1,12826.4,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-6315,26,43164,12,3597,1,31349.9,monthly issuance,27,Trebic,south Moravia,117897,139,28,5,1,6,53.8,8814,4.76,5.74,107,2112,2059,OWNER,F,half-age
-5876,26,221280,48,4610,1,31344.7,weekly issuance,27,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,half-age
-6986,26,151728,48,3161,-1,26488.7,monthly issuance,27,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,half-age
-6294,26,79920,60,1332,1,31271.6,monthly issuance,27,Plzen - mesto,west Bohemia,170449,0,0,0,1,1,100.0,10787,2.64,3.09,131,6041,6261,OWNER,M,third-age
-5132,26,538500,60,8975,1,23271.0,monthly issuance,27,Kolin,central Bohemia,95616,65,30,4,1,6,51.4,9307,3.85,4.43,118,2616,3040,OWNER,M,half-age
-5877,26,97224,24,4051,1,19479.6,monthly issuance,28,Karlovy Vary,west Bohemia,122603,25,21,6,2,8,80.0,8991,1.39,2.01,128,5198,5273,OWNER,F,third-age
-6227,26,28248,24,1177,1,33743.7,monthly issuance,28,Pardubice,east Bohemia,162580,83,26,5,1,6,72.8,9538,1.51,1.81,111,6079,5410,OWNER,F,half-age
-7241,26,168984,24,7041,-1,24304.3,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-6737,26,76680,24,3195,1,27191.2,monthly issuance,28,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,M,third-age
-7004,26,331560,60,5526,1,47992.1,monthly issuance,28,Pribram,central Bohemia,107870,84,29,6,1,6,58.0,8754,3.83,4.31,137,3804,3868,OWNER,M,half-age
-6169,26,103680,60,1728,-1,30227.6,monthly issuance,28,Havlickuv Brod,east Bohemia,95907,87,25,5,2,7,59.1,8388,2.41,2.94,87,1658,1668,OWNER,M,half-age
-5208,26,99696,48,2077,-1,32966.8,monthly issuance,28,Klatovy,west Bohemia,88757,60,33,3,2,10,61.7,8554,2.47,2.68,113,1822,2218,OWNER,F,half-age
-6694,26,134784,24,5616,1,16218.7,monthly issuance,27,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,F,forth-age
-5599,26,15420,12,1285,1,31867.2,monthly issuance,28,Teplice,north Bohemia,128118,9,16,6,3,8,85.3,9317,6.49,7.07,97,6949,6872,OWNER,F,half-age
-6546,26,31728,24,1322,1,32802.7,monthly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,third-age
-5414,26,185952,48,3874,1,82385.2,monthly issuance,27,Chomutov,north Bohemia,125236,28,11,1,4,5,87.7,9675,6.43,7.68,100,5323,5190,OWNER,M,third-age
-5453,26,156672,36,4352,1,23271.5,monthly issuance,27,Plzen - sever,west Bohemia,72541,66,26,10,0,8,36.9,8594,1.62,2.01,112,1580,1525,OWNER,F,third-age
-5740,26,18564,12,1547,1,43265.7,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-5804,26,158976,48,3312,1,18894.0,monthly issuance,28,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,M,forth-age
-6745,26,47304,24,1971,1,62458.3,monthly issuance,27,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,M,half-age
-6950,26,104712,24,4363,1,25947.2,monthly issuance,28,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,third-age
-6996,26,126600,24,5275,1,48720.6,monthly issuance,28,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,M,forth-age
-5352,26,68400,12,5700,-1,23946.1,monthly issuance,27,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,F,half-age
-6151,26,225420,60,3757,1,32403.4,monthly issuance,27,Trebic,south Moravia,117897,139,28,5,1,6,53.8,8814,4.76,5.74,107,2112,2059,OWNER,F,third-age
-5310,26,248148,36,6893,1,41108.6,monthly issuance,27,Plzen - sever,west Bohemia,72541,66,26,10,0,8,36.9,8594,1.62,2.01,112,1580,1525,OWNER,F,forth-age
-5045,26,187224,24,7801,-1,50832.1,monthly issuance,27,Znojmo,south Moravia,114200,101,41,4,1,4,43.7,8403,5.74,5.72,105,2157,2718,OWNER,M,third-age
-6929,26,36396,12,3033,1,45480.6,weekly issuance,28,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-5151,26,189060,60,3151,1,68945.6,issuance after transaction,27,Kladno,central Bohemia,149893,63,29,6,2,6,67.4,9753,4.64,5.05,109,5244,5892,OWNER,F,half-age
-5212,26,71064,36,1974,1,31397.0,monthly issuance,27,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,F,third-age
-5138,26,87216,48,1817,1,26795.3,monthly issuance,28,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,F,third-age
-5713,26,158760,60,2646,1,19182.3,monthly issuance,28,Rychnov nad Kneznou,east Bohemia,78955,50,24,8,1,9,59.0,9060,1.78,2.44,124,1655,1717,OWNER,M,half-age
-6704,26,417060,60,6951,1,80978.7,monthly issuance,27,Rokycany,west Bohemia,45714,52,10,5,1,6,55.6,8843,2.82,3.6,113,818,888,OWNER,F,half-age
-6474,26,63360,60,1056,1,25649.6,monthly issuance,28,Semily,east Bohemia,75685,31,28,5,1,9,60.8,8208,1.89,2.26,155,1660,2123,OWNER,M,third-age
-6676,26,29784,24,1241,1,37920.3,monthly issuance,26,Plzen - mesto,west Bohemia,170449,0,0,0,1,1,100.0,10787,2.64,3.09,131,6041,6261,OWNER,F,half-age
-6965,26,139536,24,5814,1,36472.9,monthly issuance,27,Trebic,south Moravia,117897,139,28,5,1,6,53.8,8814,4.76,5.74,107,2112,2059,OWNER,F,forth-age
-6725,26,265320,36,7370,1,35289.8,monthly issuance,28,Prachatice,south Bohemia,51428,50,11,3,1,4,52.7,8402,3.13,3.98,120,999,1099,OWNER,F,third-age
-7166,26,198240,24,8260,1,44644.2,monthly issuance,26,Usti nad Labem,north Bohemia,118650,8,8,5,1,3,85.6,9832,3.32,4.48,114,6445,5471,OWNER,M,third-age
-7138,26,60000,60,1000,1,16878.6,monthly issuance,28,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,third-age
-5970,26,465072,48,9689,1,37152.4,monthly issuance,27,Zdar nad Sazavou,south Moravia,125832,151,41,2,3,5,48.3,8512,3.51,4.12,102,2247,2103,OWNER,M,third-age
-6157,26,98592,24,4108,1,62671.9,issuance after transaction,26,Praha - vychod,central Bohemia,92084,55,29,4,3,5,46.7,10124,0.56,0.54,141,3810,4316,OWNER,F,half-age
-6153,26,285600,60,4760,1,28194.4,weekly issuance,26,Kolin,central Bohemia,95616,65,30,4,1,6,51.4,9307,3.85,4.43,118,2616,3040,OWNER,F,half-age
-5693,26,44088,24,1837,1,44383.2,monthly issuance,26,Nymburk,central Bohemia,81344,61,23,4,2,6,55.3,8899,3.39,3.97,149,2987,2487,OWNER,F,third-age
-5922,26,20220,12,1685,1,31317.9,monthly issuance,27,Nymburk,central Bohemia,81344,61,23,4,2,6,55.3,8899,3.39,3.97,149,2987,2487,OWNER,F,half-age
-5959,26,107640,24,4485,1,65325.4,monthly issuance,26,Benesov,central Bohemia,88884,80,26,6,2,5,46.7,8507,1.67,1.85,132,2159,2674,OWNER,F,half-age
-5980,26,21396,12,1783,1,24782.0,monthly issuance,27,Cesky Krumlov,south Bohemia,58796,22,16,7,1,5,51.9,9045,3.13,3.6,124,1845,1879,OWNER,M,half-age
-6764,26,33984,48,708,1,44465.4,monthly issuance,27,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,M,half-age
-5237,26,45336,24,1889,1,39839.5,monthly issuance,27,Prachatice,south Bohemia,51428,50,11,3,1,4,52.7,8402,3.13,3.98,120,999,1099,OWNER,M,half-age
-6726,26,85860,60,1431,1,39366.8,monthly issuance,27,Benesov,central Bohemia,88884,80,26,6,2,5,46.7,8507,1.67,1.85,132,2159,2674,OWNER,F,third-age
-6933,26,188688,48,3931,1,23579.7,monthly issuance,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,half-age
-5145,26,309552,48,6449,1,51799.4,monthly issuance,26,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,forth-age
-7008,26,36168,12,3014,1,29138.1,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-7227,26,314520,60,5242,1,50517.0,weekly issuance,27,Chrudim,east Bohemia,105606,77,26,7,2,7,53.0,8254,2.79,3.76,97,2166,2325,OWNER,F,third-age
-6600,26,21852,36,607,1,42899.4,monthly issuance,26,Chomutov,north Bohemia,125236,28,11,1,4,5,87.7,9675,6.43,7.68,100,5323,5190,OWNER,M,third-age
-6712,26,266220,60,4437,1,38159.6,monthly issuance,27,Strakonice,south Bohemia,70646,94,14,3,1,4,58.4,8547,2.65,3.64,120,1563,1542,OWNER,F,half-age
-7057,26,231696,36,6436,1,47174.7,weekly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-7176,26,260028,36,7223,1,69850.9,monthly issuance,27,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,M,half-age
-7304,26,419880,60,6998,1,24704.4,weekly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,third-age
-6362,26,37908,12,3159,1,46113.5,monthly issuance,27,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,F,half-age
-5880,26,73836,36,2051,1,67453.1,monthly issuance,26,Most,north Bohemia,119895,17,4,3,2,4,89.9,10446,7.34,9.4,90,4947,4743,OWNER,F,half-age
-6535,26,41952,12,3496,1,24672.8,monthly issuance,27,Hradec Kralove,east Bohemia,161854,73,21,6,1,6,76.3,9425,1.72,2.5,125,4085,3891,OWNER,M,half-age
-5449,26,99336,24,4139,1,30838.7,monthly issuance,26,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,F,half-age
-6342,25,60156,36,1671,-1,132316.8,monthly issuance,26,Jindrichuv Hradec,south Bohemia,93931,74,21,10,1,8,56.9,8427,1.12,1.54,107,1874,1913,OWNER,M,half-age
-5409,25,182040,60,3034,1,38747.5,monthly issuance,26,Prachatice,south Bohemia,51428,50,11,3,1,4,52.7,8402,3.13,3.98,120,999,1099,OWNER,F,third-age
-6955,25,244368,48,5091,1,86194.1,issuance after transaction,27,Znojmo,south Moravia,114200,101,41,4,1,4,43.7,8403,5.74,5.72,105,2157,2718,OWNER,M,half-age
-6985,25,113796,36,3161,1,34054.0,issuance after transaction,26,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,half-age
-5125,25,73056,48,1522,1,21545.7,monthly issuance,26,Most,north Bohemia,119895,17,4,3,2,4,89.9,10446,7.34,9.4,90,4947,4743,OWNER,M,half-age
-5805,25,137904,24,5746,-1,35159.7,monthly issuance,26,Praha - zapad,central Bohemia,75637,35,36,9,0,7,36.5,9622,0.45,0.59,154,3475,3529,OWNER,M,half-age
-6185,25,31176,24,1299,1,50647.1,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-7243,25,217152,36,6032,1,42293.9,monthly issuance,26,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,half-age
-6403,25,194880,48,4060,1,31007.0,monthly issuance,27,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,half-age
-6578,25,27984,12,2332,1,18380.5,weekly issuance,27,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,M,third-age
-5413,25,92976,24,3874,1,21531.8,weekly issuance,27,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,F,half-age
-6949,25,104712,24,4363,1,30115.3,weekly issuance,27,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,F,half-age
-6545,25,191880,60,3198,1,78521.0,monthly issuance,26,Tabor,south Bohemia,103347,87,16,7,1,7,67.0,9104,1.51,2.07,123,2299,2354,OWNER,M,third-age
-6178,25,232560,48,4845,1,41243.5,issuance after transaction,26,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,F,half-age
-5160,25,204000,60,3400,1,37992.7,monthly issuance,26,Jicin,east Bohemia,77917,85,19,6,1,5,53.5,8390,2.28,2.89,132,2080,2122,OWNER,M,third-age
-6785,25,125340,60,2089,1,19007.0,weekly issuance,27,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,third-age
-6540,25,309600,48,6450,1,35488.1,weekly issuance,26,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,half-age
-6589,25,189696,24,7904,1,88632.1,weekly issuance,26,Prachatice,south Bohemia,51428,50,11,3,1,4,52.7,8402,3.13,3.98,120,999,1099,OWNER,M,third-age
-5900,25,135360,48,2820,1,54868.9,monthly issuance,26,Svitavy,east Bohemia,102609,75,33,2,3,6,52.0,8187,4.83,5.45,94,2123,2134,OWNER,M,half-age
-5999,25,98832,48,2059,1,27169.8,monthly issuance,27,Havlickuv Brod,east Bohemia,95907,87,25,5,2,7,59.1,8388,2.41,2.94,87,1658,1668,OWNER,F,half-age
-6043,25,20352,48,424,1,21281.5,monthly issuance,26,Jihlava,south Moravia,109164,98,16,6,1,4,63.6,8757,3.38,3.95,96,2212,2471,OWNER,F,third-age
-5482,25,165120,60,2752,1,22745.4,monthly issuance,27,Trutnov,east Bohemia,121947,37,28,7,3,11,70.5,8541,2.51,2.97,131,3496,3839,OWNER,F,third-age
-7263,25,89880,24,3745,1,39079.5,weekly issuance,26,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,M,half-age
-6013,25,128988,36,3583,-1,9680.2,weekly issuance,27,Strakonice,south Bohemia,70646,94,14,3,1,4,58.4,8547,2.65,3.64,120,1563,1542,OWNER,M,forth-age
-5750,25,63252,12,5271,1,49709.2,monthly issuance,27,Melnik,central Bohemia,94725,38,28,1,3,6,63.4,9920,2.26,2.87,130,4289,4846,OWNER,F,third-age
-6027,25,61656,24,2569,-1,59695.5,weekly issuance,26,Rakovnik,central Bohemia,53921,61,22,1,1,2,41.3,8598,2.77,3.26,123,1597,1875,OWNER,F,third-age
-6303,25,72408,24,3017,-1,36363.9,issuance after transaction,26,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,F,half-age
-7213,25,113544,36,3154,1,13386.8,monthly issuance,26,Znojmo,south Moravia,114200,101,41,4,1,4,43.7,8403,5.74,5.72,105,2157,2718,OWNER,M,third-age
-6659,25,56100,60,935,1,15407.2,monthly issuance,26,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,half-age
-6175,25,290700,60,4845,-1,11574.8,monthly issuance,26,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,F,half-age
-5610,25,123216,48,2567,1,77580.8,monthly issuance,27,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,F,half-age
-5563,25,380160,60,6336,1,24549.6,monthly issuance,27,Ostrava - mesto,north Moravia,323870,0,0,0,1,1,100.0,10673,4.75,5.44,100,18782,18347,OWNER,M,third-age
-5989,25,213300,36,5925,1,27326.7,monthly issuance,26,Pardubice,east Bohemia,162580,83,26,5,1,6,72.8,9538,1.51,1.81,111,6079,5410,OWNER,M,half-age
-6698,25,247728,48,5161,1,52551.7,weekly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-5312,25,202788,36,5633,1,81623.6,weekly issuance,26,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,F,third-age
-7189,25,154656,48,3222,1,37180.5,monthly issuance,26,Novy Jicin,north Moravia,161227,5,35,11,4,10,69.7,8678,5.93,5.57,102,4980,4595,OWNER,M,half-age
-6816,25,100224,48,2088,-1,31387.1,monthly issuance,25,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,F,half-age
-6137,25,44628,12,3719,1,80439.7,weekly issuance,27,Rakovnik,central Bohemia,53921,61,22,1,1,2,41.3,8598,2.77,3.26,123,1597,1875,OWNER,M,third-age
-5128,25,215616,48,4492,-1,8640.6,monthly issuance,26,Jesenik,north Moravia,42821,4,13,5,1,3,48.4,8173,?,7.01,124,?,1358,OWNER,M,half-age
-5470,25,200976,48,4187,1,47431.4,monthly issuance,26,Znojmo,south Moravia,114200,101,41,4,1,4,43.7,8403,5.74,5.72,105,2157,2718,OWNER,M,third-age
-5593,25,277884,36,7719,-1,11614.0,monthly issuance,27,Chrudim,east Bohemia,105606,77,26,7,2,7,53.0,8254,2.79,3.76,97,2166,2325,OWNER,F,half-age
-5350,25,249312,48,5194,1,55426.5,weekly issuance,26,Plzen - mesto,west Bohemia,170449,0,0,0,1,1,100.0,10787,2.64,3.09,131,6041,6261,OWNER,M,third-age
-6063,25,320976,48,6687,-1,46462.2,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,forth-age
-6501,25,30276,12,2523,-1,24930.3,monthly issuance,26,Tabor,south Bohemia,103347,87,16,7,1,7,67.0,9104,1.51,2.07,123,2299,2354,OWNER,F,forth-age
-5452,25,49440,60,824,1,45021.6,monthly issuance,26,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,F,half-age
-4961,25,30276,12,2523,-1,15854.0,monthly issuance,26,Tabor,south Bohemia,103347,87,16,7,1,7,67.0,9104,1.51,2.07,123,2299,2354,OWNER,F,forth-age
-4973,25,165960,24,6915,1,23703.8,monthly issuance,27,Jindrichuv Hradec,south Bohemia,93931,74,21,10,1,8,56.9,8427,1.12,1.54,107,1874,1913,OWNER,F,third-age
-6190,25,123600,60,2060,1,15520.2,monthly issuance,26,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,M,half-age
-6715,25,220620,60,3677,1,26332.6,monthly issuance,26,Strakonice,south Bohemia,70646,94,14,3,1,4,58.4,8547,2.65,3.64,120,1563,1542,OWNER,F,third-age
-5892,25,66480,24,2770,-1,34891.2,weekly issuance,25,Opava,north Moravia,182027,17,49,12,2,7,56.4,8746,3.33,3.74,90,4355,4433,OWNER,M,forth-age
-6550,25,320592,48,6679,1,69148.6,monthly issuance,26,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,F,half-age
-5706,25,161496,36,4486,1,29371.5,weekly issuance,27,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,half-age
-5148,25,284280,60,4738,1,94617.3,monthly issuance,26,Litomerice,north Bohemia,114006,71,26,6,2,9,62.3,9065,4.46,5.39,123,4147,4166,OWNER,F,half-age
-6734,25,173016,36,4806,1,113931.6,weekly issuance,26,Ceske Budejovice,south Bohemia,177686,69,27,10,1,9,74.8,10045,1.42,1.71,135,6604,6295,OWNER,F,third-age
-6109,25,368880,60,6148,1,105712.4,monthly issuance,27,Zdar nad Sazavou,south Moravia,125832,151,41,2,3,5,48.3,8512,3.51,4.12,102,2247,2103,OWNER,M,half-age
-6961,25,176148,36,4893,1,53592.6,monthly issuance,25,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,F,half-age
-6810,25,186384,48,3883,1,20960.7,weekly issuance,27,Teplice,north Bohemia,128118,9,16,6,3,8,85.3,9317,6.49,7.07,97,6949,6872,OWNER,M,half-age
-5494,25,360000,48,7500,1,64765.2,issuance after transaction,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,half-age
-5311,25,30060,60,501,1,48523.3,monthly issuance,27,Plzen - sever,west Bohemia,72541,66,26,10,0,8,36.9,8594,1.62,2.01,112,1580,1525,OWNER,M,third-age
-5445,25,46320,24,1930,1,23552.7,monthly issuance,26,Decin,north Bohemia,133777,24,17,7,3,11,84.7,8705,5.75,7.61,116,4650,4859,OWNER,M,half-age
-5301,25,141948,36,3943,1,47239.7,monthly issuance,25,Frydek - Mistek,north Moravia,228848,15,40,18,2,6,57.2,9893,4.09,4.72,96,5623,5887,OWNER,F,third-age
-7034,25,19044,36,529,1,50167.6,monthly issuance,26,Karlovy Vary,west Bohemia,122603,25,21,6,2,8,80.0,8991,1.39,2.01,128,5198,5273,OWNER,F,half-age
-6751,25,85716,36,2381,1,52416.9,monthly issuance,25,Pelhrimov,south Bohemia,74062,99,15,4,2,7,61.4,8114,2.38,2.62,119,1003,1181,OWNER,M,forth-age
-6667,25,155880,24,6495,1,44564.6,monthly issuance,27,Litomerice,north Bohemia,114006,71,26,6,2,9,62.3,9065,4.46,5.39,123,4147,4166,OWNER,F,half-age
-6130,25,32640,48,680,1,18800.0,monthly issuance,26,Hradec Kralove,east Bohemia,161854,73,21,6,1,6,76.3,9425,1.72,2.5,125,4085,3891,OWNER,M,third-age
-5429,25,20196,36,561,1,65684.6,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-5725,25,444864,48,9268,1,41743.9,monthly issuance,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,M,half-age
-6019,25,11400,12,950,1,27820.2,monthly issuance,26,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,F,half-age
-6421,25,96768,36,2688,1,37396.4,monthly issuance,26,Louny,north Bohemia,85852,41,23,4,2,4,59.8,8965,7.08,8.23,104,2653,2822,OWNER,F,half-age
-6992,25,133968,48,2791,1,34729.5,monthly issuance,25,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,M,third-age
-5136,25,187104,24,7796,1,86877.7,monthly issuance,25,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,F,half-age
-5337,25,162468,36,4513,1,74638.8,monthly issuance,25,Ceska Lipa,north Bohemia,105058,32,19,7,2,10,81.0,9272,2.8,3.22,118,4340,4505,OWNER,F,half-age
-5495,25,89340,60,1489,1,41537.2,monthly issuance,25,Prostejov,south Moravia,110643,49,41,4,1,4,51.9,8441,3.45,4.48,115,1879,2252,OWNER,F,half-age
-7013,25,89340,60,1489,1,42242.2,monthly issuance,25,Prostejov,south Moravia,110643,49,41,4,1,4,51.9,8441,3.45,4.48,115,1879,2252,OWNER,F,half-age
-6012,25,258444,36,7179,1,53892.1,weekly issuance,25,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-6471,25,155640,24,6485,1,40509.2,monthly issuance,26,Kolin,central Bohemia,95616,65,30,4,1,6,51.4,9307,3.85,4.43,118,2616,3040,OWNER,F,third-age
-6296,25,270384,48,5633,1,57835.1,monthly issuance,26,Beroun,central Bohemia,75232,55,26,4,1,5,41.7,8980,1.95,2.21,111,2824,2813,OWNER,M,half-age
-7305,25,54024,12,4502,1,25682.6,monthly issuance,27,Trebic,south Moravia,117897,139,28,5,1,6,53.8,8814,4.76,5.74,107,2112,2059,OWNER,M,half-age
-6144,25,44376,12,3698,1,68241.5,monthly issuance,25,Cesky Krumlov,south Bohemia,58796,22,16,7,1,5,51.9,9045,3.13,3.6,124,1845,1879,OWNER,M,half-age
-6283,25,85632,48,1784,1,117238.7,monthly issuance,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,third-age
-7246,25,148920,60,2482,1,15278.6,weekly issuance,25,Kromeriz,south Moravia,108871,41,29,7,2,6,62.1,8444,3.24,3.47,106,2595,2305,OWNER,M,half-age
-5088,25,91152,24,3798,1,39378.8,monthly issuance,26,Ceska Lipa,north Bohemia,105058,32,19,7,2,10,81.0,9272,2.8,3.22,118,4340,4505,OWNER,M,third-age
-5988,25,141648,24,5902,1,123310.1,monthly issuance,25,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,M,third-age
-5282,25,388512,48,8094,-1,38697.3,issuance after transaction,26,Jesenik,north Moravia,42821,4,13,5,1,3,48.4,8173,?,7.01,124,?,1358,OWNER,F,half-age
-5938,25,402000,60,6700,1,17232.1,monthly issuance,26,Kladno,central Bohemia,149893,63,29,6,2,6,67.4,9753,4.64,5.05,109,5244,5892,OWNER,M,half-age
-5606,25,253512,36,7042,-1,13318.4,weekly issuance,25,Kromeriz,south Moravia,108871,41,29,7,2,6,62.1,8444,3.24,3.47,106,2595,2305,OWNER,F,third-age
-5385,25,71460,36,1985,1,49663.5,monthly issuance,25,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6865,25,29448,12,2454,-1,43790.6,monthly issuance,25,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,M,third-age
-5586,25,48744,36,1354,1,62891.3,monthly issuance,25,Vsetin,north Moravia,148545,8,35,12,3,4,53.5,8909,4.01,5.56,113,3460,3590,OWNER,F,half-age
-6302,25,181020,60,3017,1,42526.0,monthly issuance,26,Rychnov nad Kneznou,east Bohemia,78955,50,24,8,1,9,59.0,9060,1.78,2.44,124,1655,1717,OWNER,F,half-age
-7194,25,68832,36,1912,1,51540.7,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-6461,25,74124,36,2059,1,25658.0,weekly issuance,26,Pribram,central Bohemia,107870,84,29,6,1,6,58.0,8754,3.83,4.31,137,3804,3868,OWNER,F,forth-age
-6732,25,174048,48,3626,1,54140.4,monthly issuance,26,Pardubice,east Bohemia,162580,83,26,5,1,6,72.8,9538,1.51,1.81,111,6079,5410,OWNER,F,third-age
-6613,25,84120,24,3505,1,45528.9,weekly issuance,25,Jesenik,north Moravia,42821,4,13,5,1,3,48.4,8173,?,7.01,124,?,1358,OWNER,F,third-age
-7036,25,194940,36,5415,1,34212.3,monthly issuance,26,Mlada Boleslav,central Bohemia,112065,95,19,7,1,8,69.4,11277,1.25,1.44,127,5179,4987,OWNER,M,half-age
-5897,25,15192,24,633,1,17351.9,monthly issuance,26,Karlovy Vary,west Bohemia,122603,25,21,6,2,8,80.0,8991,1.39,2.01,128,5198,5273,OWNER,F,half-age
-6995,25,96168,12,8014,1,3609.3,weekly issuance,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,F,half-age
-5415,25,139464,36,3874,-1,65062.8,monthly issuance,26,Opava,north Moravia,182027,17,49,12,2,7,56.4,8746,3.33,3.74,90,4355,4433,OWNER,M,half-age
-7136,25,54396,36,1511,1,36208.8,monthly issuance,25,Prostejov,south Moravia,110643,49,41,4,1,4,51.9,8441,3.45,4.48,115,1879,2252,OWNER,M,forth-age
-7271,25,392460,60,6541,1,53259.7,monthly issuance,26,Pribram,central Bohemia,107870,84,29,6,1,6,58.0,8754,3.83,4.31,137,3804,3868,OWNER,F,half-age
-5375,25,101520,12,8460,1,16720.8,monthly issuance,25,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-5635,25,77184,36,2144,1,22446.0,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,third-age
-6817,25,70656,48,1472,1,22476.1,monthly issuance,25,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,third-age
-5923,25,64656,48,1347,1,44749.0,monthly issuance,25,Plzen - jih,west Bohemia,67298,71,19,10,0,7,43.8,8561,0.65,1.29,110,1029,1127,OWNER,M,third-age
-5329,25,396120,60,6602,1,88610.1,weekly issuance,26,Prachatice,south Bohemia,51428,50,11,3,1,4,52.7,8402,3.13,3.98,120,999,1099,OWNER,F,third-age
-6644,25,93600,24,3900,1,26235.8,monthly issuance,25,Nymburk,central Bohemia,81344,61,23,4,2,6,55.3,8899,3.39,3.97,149,2987,2487,OWNER,M,half-age
-6354,25,22968,36,638,1,38831.0,monthly issuance,25,Jindrichuv Hradec,south Bohemia,93931,74,21,10,1,8,56.9,8427,1.12,1.54,107,1874,1913,OWNER,F,third-age
-5082,25,262980,60,4383,1,76081.3,monthly issuance,26,Rakovnik,central Bohemia,53921,61,22,1,1,2,41.3,8598,2.77,3.26,123,1597,1875,OWNER,F,half-age
-6585,25,372120,60,6202,1,46580.5,monthly issuance,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,M,third-age
-6921,25,86184,12,7182,1,43157.5,monthly issuance,25,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,F,forth-age
-5366,25,86184,12,7182,1,39660.8,monthly issuance,25,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,F,forth-age
-5886,25,192744,36,5354,1,27799.1,monthly issuance,25,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,M,half-age
-5741,25,68544,24,2856,1,23759.8,weekly issuance,25,Litomerice,north Bohemia,114006,71,26,6,2,9,62.3,9065,4.46,5.39,123,4147,4166,OWNER,M,half-age
-4996,25,88440,12,7370,1,78907.6,issuance after transaction,25,Teplice,north Bohemia,128118,9,16,6,3,8,85.3,9317,6.49,7.07,97,6949,6872,OWNER,F,third-age
-6015,24,110112,24,4588,1,106858.1,monthly issuance,25,Blansko,south Moravia,107911,88,33,6,2,7,50.9,8240,2.53,3.56,99,1850,1903,OWNER,M,half-age
-6309,24,110136,24,4589,1,40746.5,monthly issuance,26,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,F,half-age
-6073,24,276300,60,4605,1,27578.1,monthly issuance,26,Zlin,south Moravia,197099,29,41,10,2,10,74.7,9624,1.6,2.31,145,4484,4265,OWNER,M,half-age
-6006,24,359760,60,5996,1,39959.4,monthly issuance,26,Hradec Kralove,east Bohemia,161854,73,21,6,1,6,76.3,9425,1.72,2.5,125,4085,3891,OWNER,M,half-age
-5611,24,321180,60,5353,1,37183.5,monthly issuance,25,Ceske Budejovice,south Bohemia,177686,69,27,10,1,9,74.8,10045,1.42,1.71,135,6604,6295,OWNER,M,forth-age
-6944,24,46176,48,962,1,38725.1,monthly issuance,25,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,M,half-age
-7101,24,421008,48,8771,1,31168.0,monthly issuance,25,Ceske Budejovice,south Bohemia,177686,69,27,10,1,9,74.8,10045,1.42,1.71,135,6604,6295,OWNER,M,third-age
-6599,24,72120,12,6010,1,98631.7,monthly issuance,26,Usti nad Orlici,east Bohemia,139012,59,41,8,3,10,61.9,8363,2.52,3.49,108,2564,2799,OWNER,F,third-age
-6940,24,228276,36,6341,1,53707.9,monthly issuance,25,Hl.m. Praha,Prague,1204953,0,0,0,1,1,100.0,12541,0.29,0.43,167,85677,99107,OWNER,M,half-age
-5209,24,182640,48,3805,1,23898.3,monthly issuance,25,Uherske Hradiste,south Moravia,145688,22,41,13,2,5,40.7,8544,1.29,1.86,109,2719,2906,OWNER,F,third-age
-5388,24,61560,12,5130,1,20051.1,weekly issuance,25,Tachov,west Bohemia,51313,34,12,3,1,4,59.2,8930,3.52,4.2,108,1328,1452,OWNER,M,third-age
-6011,24,179328,48,3736,1,36074.7,monthly issuance,25,Brno - mesto,south Moravia,387570,0,0,0,1,1,100.0,9897,1.6,1.96,140,18721,18696,OWNER,M,half-age
-5591,24,155616,48,3242,1,24447.1,monthly issuance,25,Praha - vychod,central Bohemia,92084,55,29,4,3,5,46.7,10124,0.56,0.54,141,3810,4316,OWNER,F,half-age
-7154,24,417600,60,6960,1,58638.6,issuance after transaction,26,Brno - venkov,south Moravia,157042,49,70,18,0,9,33.9,8743,1.88,2.43,111,3659,3894,OWNER,M,half-age
-7130,24,123408,24,5142,1,8357.1,issuance after transaction,25,Most,north Bohemia,119895,17,4,3,2,4,89.9,10446,7.34,9.4,90,4947,4743,OWNER,M,half-age
-6818,24,155616,48,3242,1,60694.1,monthly issuance,26,Olomouc,north Moravia,226122,32,50,7,4,4,62.6,8994,3.8,4.79,110,9672,9208,OWNER,F,half-age
-5625,24,222180,60,3703,-1,59578.8,monthly issuance,25,Rokycany,west Bohemia,45714,52,10,5,1,6,55.6,8843,2.82,3.6,113,818,888,OWNER,M,forth-age
-6805,24,45024,48,938,1,38384.3,monthly issuance,25,Karvina,north Moravia,285387,0,2,8,5,7,89.9,10177,6.63,7.75,81,9878,10108,OWNER,F,half-age
-7233,24,115812,36,3217,1,41878.1,monthly issuance,26,Jindrichuv Hradec,south Bohemia,93931,74,21,10,1,8,56.9,8427,1.12,1.54,107,1874,1913,OWNER,M,third-age
-7308,24,129408,24,5392,1,24199.5,monthly issuance,26,Bruntal,north Moravia,106054,38,25,6,2,6,63.1,8110,5.77,6.55,109,3244,3079,OWNER,F,half-age
+loan_id,years_since_loan,amount,duration,payments,status,balance,frequency,years_since_acc_open,region,no. of inhabitants,no. of municipalities with inhabitants < 499 ,no. of municipalities with inhabitants 500-1999,no. of cities ,ratio of urban inhabitants ,average salary ,no. of enterpreneurs per 1000 inhabitants ,unemployment_rate,no. of commited crimes,no. of municipalities with inhabitants > 2000,type,gender,age_group
+5314,28,96396,12,8033,-1,20100.0,weekly issuance,28,west Bohemia,94812,15,13,10,81.8,9650,100,3.525,2894.5,21,OWNER,F,third-age
+5316,28,165960,36,4610,1,52208.9,monthly issuance,28,east Bohemia,112709,48,20,10,73.5,8369,117,2.05,2736.0,27,OWNER,M,half-age
+6863,28,127080,60,2118,1,20272.8,monthly issuance,28,east Bohemia,77917,85,19,5,53.5,8390,132,2.585,2101.0,25,OWNER,M,forth-age
+5325,28,105804,36,2939,1,34307.3,monthly issuance,28,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,F,forth-age
+7240,28,274740,60,4579,1,41142.9,weekly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+6687,28,87840,24,3660,1,43847.8,monthly issuance,28,central Bohemia,53921,61,22,2,41.3,8598,123,3.0149999999999997,1736.0,23,OWNER,F,half-age
+7284,28,52788,12,4399,1,21029.0,monthly issuance,28,south Bohemia,58796,22,16,5,51.9,9045,124,3.365,1862.0,23,OWNER,M,half-age
+6111,28,174744,24,7281,-1,58140.9,monthly issuance,28,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,F,third-age
+7235,28,154416,48,3217,1,53402.7,weekly issuance,28,south Bohemia,70699,60,13,4,65.3,8968,131,3.09,1825.0,15,OWNER,F,half-age
+5997,28,117024,24,4876,1,53193.5,monthly issuance,28,south Bohemia,177686,69,27,9,74.8,10045,135,1.565,6449.5,37,OWNER,M,forth-age
+7121,27,21924,36,609,1,49083.3,monthly issuance,28,south Moravia,157042,49,70,9,33.9,8743,111,2.1550000000000002,3776.5,88,OWNER,M,half-age
+6077,27,79608,24,3317,1,103745.7,monthly issuance,28,east Bohemia,105606,77,26,7,53.0,8254,97,3.275,2245.5,33,OWNER,M,half-age
+6228,27,464520,60,7742,-1,121600.3,weekly issuance,28,central Bohemia,77963,60,23,4,51.5,8546,126,3.485,2880.0,27,OWNER,F,forth-age
+6356,27,95400,36,2650,1,27697.0,weekly issuance,28,east Bohemia,75685,31,28,9,60.8,8208,155,2.0749999999999997,1891.5,33,OWNER,M,half-age
+5523,27,93888,36,2608,1,34716.3,issuance after transaction,28,south Moravia,86513,38,36,5,50.5,8288,110,4.154999999999999,1511.0,41,OWNER,F,third-age
+6456,27,47016,12,3918,1,58773.2,issuance after transaction,28,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,half-age
+7104,27,259740,60,4329,1,67219.5,monthly issuance,28,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,M,half-age
+6820,27,38148,12,3179,1,47725.8,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6876,27,86616,12,7218,1,37253.1,monthly issuance,28,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,M,half-age
+7097,27,75624,24,3151,-1,41954.8,monthly issuance,28,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,half-age
+4959,27,80952,24,3373,1,27855.2,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,third-age
+6499,27,80952,24,3373,1,28763.7,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,third-age
+5479,27,24516,12,2043,1,78656.2,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+5170,27,253200,60,4220,1,81150.6,weekly issuance,28,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,F,third-age
+6721,27,21072,24,878,1,30867.0,monthly issuance,28,central Bohemia,149893,63,29,6,67.4,9753,109,4.845,5568.0,35,OWNER,F,half-age
+7259,27,108144,36,3004,1,21921.3,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+5285,27,78936,12,6578,1,24601.0,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+5189,27,149040,48,3105,1,19033.5,monthly issuance,28,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,F,half-age
+6650,27,49320,12,4110,-1,15673.6,issuance after transaction,28,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,F,third-age
+7226,27,197748,36,5493,1,43294.5,monthly issuance,28,east Bohemia,102609,75,33,6,52.0,8187,94,5.140000000000001,2128.5,35,OWNER,F,half-age
+6087,27,300660,60,5011,1,33918.9,monthly issuance,28,north Bohemia,128118,9,16,8,85.3,9317,97,6.78,6910.5,22,OWNER,M,third-age
+7262,27,182628,36,5073,1,45660.9,monthly issuance,28,north Moravia,138032,67,30,5,64.6,8819,99,5.52,4284.0,34,OWNER,M,half-age
+5519,27,91632,12,7636,1,33061.9,monthly issuance,28,central Bohemia,94725,38,28,6,63.4,9920,130,2.565,4567.5,29,OWNER,F,half-age
+6577,27,51696,24,2154,1,38202.2,monthly issuance,28,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,F,half-age
+6509,27,55368,24,2307,1,12414.4,monthly issuance,28,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,forth-age
+6520,27,91200,24,3800,1,32715.3,monthly issuance,28,north Bohemia,119895,17,4,4,89.9,10446,90,8.370000000000001,4845.0,7,OWNER,F,third-age
+6699,27,7656,24,319,1,36353.1,monthly issuance,28,east Bohemia,78955,50,24,9,59.0,9060,124,2.11,1686.0,32,OWNER,F,half-age
+6336,27,212400,36,5900,1,64221.1,weekly issuance,28,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,F,half-age
+7055,27,167100,60,2785,1,39310.2,monthly issuance,28,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,F,half-age
+6103,27,149340,60,2489,1,23538.3,weekly issuance,28,east Bohemia,105606,77,26,7,53.0,8254,97,3.275,2245.5,33,OWNER,M,half-age
+6202,27,65184,12,5432,1,67995.4,monthly issuance,28,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,half-age
+7066,27,215388,36,5983,-1,30662.8,monthly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+6696,27,89040,60,1484,1,29305.8,monthly issuance,28,north Moravia,148545,8,35,4,53.5,8909,113,4.785,3525.0,47,OWNER,F,half-age
+6072,27,193968,36,5388,1,80780.0,issuance after transaction,28,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,half-age
+5130,27,24312,12,2026,1,28461.9,monthly issuance,28,south Bohemia,93931,74,21,8,56.9,8427,107,1.33,1893.5,31,OWNER,F,third-age
+5568,27,272520,60,4542,1,30009.9,monthly issuance,28,central Bohemia,92084,55,29,5,46.7,10124,141,0.55,4063.0,33,OWNER,M,forth-age
+6678,27,80340,12,6695,1,89342.6,monthly issuance,28,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,F,half-age
+6998,27,97632,12,8136,1,41330.1,monthly issuance,28,south Bohemia,70646,94,14,4,58.4,8547,120,3.145,1552.5,17,OWNER,F,half-age
+6580,27,196080,48,4085,1,86857.4,monthly issuance,28,west Bohemia,87419,21,11,9,85.5,8624,102,2.225,3038.5,15,OWNER,M,half-age
+6316,27,76908,12,6409,-1,14888.6,monthly issuance,28,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,F,third-age
+6512,27,63312,48,1319,1,28553.5,monthly issuance,28,central Bohemia,149893,63,29,6,67.4,9753,109,4.845,5568.0,35,OWNER,F,third-age
+6407,27,25944,24,1081,1,69398.9,monthly issuance,28,north Bohemia,118650,8,8,3,85.6,9832,114,3.9000000000000004,5958.0,13,OWNER,F,half-age
+5002,27,104808,12,8734,1,28015.4,monthly issuance,27,south Moravia,125832,151,41,5,48.3,8512,102,3.815,2175.0,43,OWNER,M,forth-age
+6647,27,208320,48,4340,1,44213.1,weekly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+7137,27,151560,24,6315,1,21323.2,monthly issuance,27,south Moravia,125832,151,41,5,48.3,8512,102,3.815,2175.0,43,OWNER,M,third-age
+6903,27,52128,24,2172,1,58844.8,monthly issuance,28,west Bohemia,94812,15,13,10,81.8,9650,100,3.525,2894.5,21,OWNER,F,half-age
+5918,27,300204,36,8339,1,33932.8,monthly issuance,28,west Bohemia,67298,71,19,7,43.8,8561,110,0.97,1078.0,29,OWNER,M,half-age
+6642,27,77640,12,6470,1,30825.8,weekly issuance,28,east Bohemia,105606,77,26,7,53.0,8254,97,3.275,2245.5,33,OWNER,M,half-age
+6210,27,87216,48,1817,-1,21691.3,monthly issuance,27,south Bohemia,58796,22,16,5,51.9,9045,124,3.365,1862.0,23,OWNER,M,half-age
+6279,27,87360,24,3640,1,29057.9,monthly issuance,28,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,M,half-age
+7249,27,69360,48,1445,1,38665.0,monthly issuance,28,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,M,forth-age
+6736,27,288360,60,4806,1,43450.3,issuance after transaction,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,forth-age
+6112,27,174744,24,7281,-1,6930.8,monthly issuance,28,north Bohemia,125236,28,11,5,87.7,9675,100,7.055,5256.5,12,OWNER,F,half-age
+5319,27,239460,60,3991,1,36240.6,monthly issuance,28,north Bohemia,128118,9,16,8,85.3,9317,97,6.78,6910.5,22,OWNER,F,third-age
+6596,27,91584,24,3816,1,49842.9,monthly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,third-age
+5837,27,244560,60,4076,1,21326.1,monthly issuance,28,south Moravia,124605,11,42,8,46.0,8772,126,4.835000000000001,3006.0,56,OWNER,F,half-age
+5657,27,4980,12,415,1,22500.3,monthly issuance,28,south Moravia,86513,38,36,5,50.5,8288,110,4.154999999999999,1511.0,41,OWNER,F,third-age
+5533,27,111384,24,4641,1,52318.9,monthly issuance,28,south Bohemia,51428,50,11,4,52.7,8402,120,3.5549999999999997,1049.0,14,OWNER,M,half-age
+6232,27,276660,36,7685,-1,19783.2,monthly issuance,28,south Moravia,124605,11,42,8,46.0,8772,126,4.835000000000001,3006.0,56,OWNER,M,third-age
+6888,27,39576,12,3298,1,23901.1,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6066,27,173808,24,7242,1,94431.9,issuance after transaction,28,north Moravia,148545,8,35,4,53.5,8909,113,4.785,3525.0,47,OWNER,F,half-age
+5549,27,50460,60,841,1,41531.0,monthly issuance,28,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,F,third-age
+5060,27,252060,60,4201,-1,70096.5,monthly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6004,27,143904,24,5996,1,38336.2,monthly issuance,28,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,M,third-age
+5126,27,208128,48,4336,-1,81474.6,monthly issuance,28,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,third-age
+7220,27,131292,36,3647,1,31361.3,weekly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,third-age
+6668,27,74736,36,2076,1,33243.7,monthly issuance,28,east Bohemia,77917,85,19,5,53.5,8390,132,2.585,2101.0,25,OWNER,M,half-age
+5395,27,299088,36,8308,-1,19448.5,monthly issuance,28,north Moravia,106054,38,25,6,63.1,8110,109,6.16,3161.5,31,OWNER,F,half-age
+6836,27,189300,60,3155,1,24471.4,monthly issuance,28,east Bohemia,162580,83,26,6,72.8,9538,111,1.6600000000000001,5744.5,31,OWNER,M,third-age
+6064,27,14628,12,1219,1,34902.8,monthly issuance,28,south Moravia,157042,49,70,9,33.9,8743,111,2.1550000000000002,3776.5,88,OWNER,F,third-age
+6919,27,120888,36,3358,1,52014.4,weekly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,third-age
+6841,27,172080,48,3585,1,58224.0,monthly issuance,27,central Bohemia,92084,55,29,5,46.7,10124,141,0.55,4063.0,33,OWNER,F,half-age
+6038,27,323472,48,6739,1,69194.4,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,forth-age
+6729,27,74688,12,6224,1,28933.3,monthly issuance,28,west Bohemia,87419,21,11,9,85.5,8624,102,2.225,3038.5,15,OWNER,F,third-age
+7198,27,45768,12,3814,1,54427.5,weekly issuance,27,north Moravia,106054,38,25,6,63.1,8110,109,6.16,3161.5,31,OWNER,F,half-age
+6686,27,224604,36,6239,1,40287.4,monthly issuance,28,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,M,half-age
+5836,27,79632,24,3318,1,99262.5,monthly issuance,27,south Moravia,125832,151,41,5,48.3,8512,102,3.815,2175.0,43,OWNER,F,half-age
+7061,27,121896,24,5079,1,41917.2,monthly issuance,28,south Moravia,157042,49,70,9,33.9,8743,111,2.1550000000000002,3776.5,88,OWNER,M,half-age
+5595,27,82896,12,6908,1,64300.6,monthly issuance,28,south Moravia,110643,49,41,4,51.9,8441,115,3.9650000000000003,2065.5,45,OWNER,M,half-age
+5723,27,23628,12,1969,1,64096.3,monthly issuance,28,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,M,third-age
+6120,27,209184,48,4358,1,44254.7,monthly issuance,28,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,third-age
+6895,27,41904,12,3492,1,39204.7,monthly issuance,28,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,M,half-age
+5882,27,87816,12,7318,1,15665.6,monthly issuance,28,north Bohemia,105058,32,19,10,81.0,9272,118,3.01,4422.5,26,OWNER,M,half-age
+5754,27,23052,12,1921,1,28531.7,monthly issuance,28,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,F,forth-age
+6594,27,189696,24,7904,-1,22500.0,monthly issuance,27,south Moravia,110643,49,41,4,51.9,8441,115,3.9650000000000003,2065.5,45,OWNER,F,half-age
+6738,27,230220,36,6395,-1,6325.5,monthly issuance,28,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,F,third-age
+6624,27,71460,12,5955,1,82549.0,monthly issuance,28,south Moravia,157042,49,70,9,33.9,8743,111,2.1550000000000002,3776.5,88,OWNER,M,third-age
+6216,27,141240,24,5885,1,45871.6,monthly issuance,28,east Bohemia,102609,75,33,6,52.0,8187,94,5.140000000000001,2128.5,35,OWNER,M,half-age
+6229,27,11736,24,489,1,26984.4,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,forth-age
+5887,27,192744,36,5354,1,29019.1,monthly issuance,28,south Moravia,110643,49,41,4,51.9,8441,115,3.9650000000000003,2065.5,45,OWNER,F,half-age
+6808,27,227880,36,6330,1,53716.6,monthly issuance,28,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,third-age
+6297,27,17508,12,1459,1,48027.0,monthly issuance,28,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,third-age
+5161,27,98184,24,4091,1,68956.1,monthly issuance,27,south Moravia,114200,101,41,4,43.7,8403,105,5.73,2437.5,45,OWNER,F,third-age
+5390,27,170256,24,7094,1,43302.8,monthly issuance,28,south Bohemia,93931,74,21,8,56.9,8427,107,1.33,1893.5,31,OWNER,F,half-age
+6150,27,83016,12,6918,1,93605.6,monthly issuance,28,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,M,half-age
+6223,27,61056,48,1272,1,33525.3,monthly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+5032,27,123696,48,2577,1,25201.8,monthly issuance,27,south Moravia,124605,11,42,8,46.0,8772,126,4.835000000000001,3006.0,56,OWNER,M,forth-age
+6253,27,59760,24,2490,1,41147.7,monthly issuance,27,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,half-age
+6460,27,48672,36,1352,1,23110.0,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,third-age
+6645,27,140400,36,3900,1,28271.8,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,forth-age
+5176,26,192552,24,8023,-1,22255.5,weekly issuance,28,south Bohemia,70646,94,14,4,58.4,8547,120,3.145,1552.5,17,OWNER,F,half-age
+5269,26,164052,36,4557,-1,20811.2,issuance after transaction,27,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,F,half-age
+5351,26,205200,36,5700,1,54586.0,weekly issuance,28,south Moravia,161954,21,37,8,48.0,8720,116,4.115,3690.0,57,OWNER,F,half-age
+5861,26,51408,24,2142,1,49213.4,monthly issuance,27,west Bohemia,45714,52,10,6,55.6,8843,113,3.21,853.0,15,OWNER,M,third-age
+5450,26,199680,60,3328,1,19938.6,monthly issuance,28,central Bohemia,95616,65,30,6,51.4,9307,118,4.14,2828.0,34,OWNER,M,third-age
+7142,26,482940,60,8049,-1,18439.4,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6306,26,36684,12,3057,1,35093.0,monthly issuance,28,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,F,half-age
+6272,26,398640,60,6644,1,59316.9,weekly issuance,28,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,F,half-age
+5044,26,100980,60,1683,1,48637.7,monthly issuance,27,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,half-age
+5576,26,31248,12,2604,1,53922.3,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,forth-age
+7192,26,115992,36,3222,1,9669.5,weekly issuance,28,east Bohemia,77917,85,19,5,53.5,8390,132,2.585,2101.0,25,OWNER,M,forth-age
+5739,26,76380,12,6365,1,23156.6,monthly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6526,26,288468,36,8013,1,48665.3,monthly issuance,27,south Moravia,86513,38,36,5,50.5,8288,110,4.154999999999999,1511.0,41,OWNER,F,half-age
+5624,26,177744,48,3703,-1,14230.7,monthly issuance,28,north Moravia,161227,5,35,10,69.7,8678,102,5.75,4787.5,46,OWNER,M,half-age
+6244,26,270648,36,7518,-1,50996.5,weekly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,forth-age
+5131,26,48624,24,2026,1,47993.6,monthly issuance,28,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,half-age
+6960,26,76416,24,3184,1,12262.9,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,forth-age
+6358,26,137880,60,2298,-1,19966.8,weekly issuance,28,east Bohemia,78955,50,24,9,59.0,9060,124,2.11,1686.0,32,OWNER,M,half-age
+5418,26,347952,48,7249,1,57546.3,monthly issuance,28,west Bohemia,45714,52,10,6,55.6,8843,113,3.21,853.0,15,OWNER,F,half-age
+6598,26,68112,12,5676,1,39416.1,monthly issuance,28,north Moravia,138032,67,30,5,64.6,8819,99,5.52,4284.0,34,OWNER,F,half-age
+5464,26,95808,12,7984,1,72500.4,monthly issuance,27,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,M,forth-age
+6591,26,20832,48,434,1,17887.1,monthly issuance,28,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,M,third-age
+5724,26,316140,60,5269,-1,12826.4,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+6315,26,43164,12,3597,1,31349.9,monthly issuance,27,south Moravia,117897,139,28,6,53.8,8814,107,5.25,2085.5,33,OWNER,F,half-age
+5876,26,221280,48,4610,1,31344.7,weekly issuance,27,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,half-age
+6986,26,151728,48,3161,-1,26488.7,monthly issuance,27,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,half-age
+6294,26,79920,60,1332,1,31271.6,monthly issuance,27,west Bohemia,170449,0,0,1,100.0,10787,131,2.865,6151.0,0,OWNER,M,third-age
+5132,26,538500,60,8975,1,23271.0,monthly issuance,27,central Bohemia,95616,65,30,6,51.4,9307,118,4.14,2828.0,34,OWNER,M,half-age
+5877,26,97224,24,4051,1,19479.6,monthly issuance,28,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,F,third-age
+6227,26,28248,24,1177,1,33743.7,monthly issuance,28,east Bohemia,162580,83,26,6,72.8,9538,111,1.6600000000000001,5744.5,31,OWNER,F,half-age
+7241,26,168984,24,7041,-1,24304.3,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+6737,26,76680,24,3195,1,27191.2,monthly issuance,28,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,M,third-age
+7004,26,331560,60,5526,1,47992.1,monthly issuance,28,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,M,half-age
+6169,26,103680,60,1728,-1,30227.6,monthly issuance,28,east Bohemia,95907,87,25,7,59.1,8388,87,2.675,1663.0,30,OWNER,M,half-age
+5208,26,99696,48,2077,-1,32966.8,monthly issuance,28,west Bohemia,88757,60,33,10,61.7,8554,113,2.575,2020.0,36,OWNER,F,half-age
+6694,26,134784,24,5616,1,16218.7,monthly issuance,27,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,forth-age
+5599,26,15420,12,1285,1,31867.2,monthly issuance,28,north Bohemia,128118,9,16,8,85.3,9317,97,6.78,6910.5,22,OWNER,F,half-age
+6546,26,31728,24,1322,1,32802.7,monthly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,third-age
+5414,26,185952,48,3874,1,82385.2,monthly issuance,27,north Bohemia,125236,28,11,5,87.7,9675,100,7.055,5256.5,12,OWNER,M,third-age
+5453,26,156672,36,4352,1,23271.5,monthly issuance,27,west Bohemia,72541,66,26,8,36.9,8594,112,1.815,1552.5,36,OWNER,F,third-age
+5740,26,18564,12,1547,1,43265.7,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+5804,26,158976,48,3312,1,18894.0,monthly issuance,28,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,forth-age
+6745,26,47304,24,1971,1,62458.3,monthly issuance,27,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,half-age
+6950,26,104712,24,4363,1,25947.2,monthly issuance,28,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,third-age
+6996,26,126600,24,5275,1,48720.6,monthly issuance,28,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,M,forth-age
+5352,26,68400,12,5700,-1,23946.1,monthly issuance,27,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,F,half-age
+6151,26,225420,60,3757,1,32403.4,monthly issuance,27,south Moravia,117897,139,28,6,53.8,8814,107,5.25,2085.5,33,OWNER,F,third-age
+5310,26,248148,36,6893,1,41108.6,monthly issuance,27,west Bohemia,72541,66,26,8,36.9,8594,112,1.815,1552.5,36,OWNER,F,forth-age
+5045,26,187224,24,7801,-1,50832.1,monthly issuance,27,south Moravia,114200,101,41,4,43.7,8403,105,5.73,2437.5,45,OWNER,M,third-age
+6929,26,36396,12,3033,1,45480.6,weekly issuance,28,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+5151,26,189060,60,3151,1,68945.6,issuance after transaction,27,central Bohemia,149893,63,29,6,67.4,9753,109,4.845,5568.0,35,OWNER,F,half-age
+5212,26,71064,36,1974,1,31397.0,monthly issuance,27,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,F,third-age
+5138,26,87216,48,1817,1,26795.3,monthly issuance,28,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,F,third-age
+5713,26,158760,60,2646,1,19182.3,monthly issuance,28,east Bohemia,78955,50,24,9,59.0,9060,124,2.11,1686.0,32,OWNER,M,half-age
+6704,26,417060,60,6951,1,80978.7,monthly issuance,27,west Bohemia,45714,52,10,6,55.6,8843,113,3.21,853.0,15,OWNER,F,half-age
+6474,26,63360,60,1056,1,25649.6,monthly issuance,28,east Bohemia,75685,31,28,9,60.8,8208,155,2.0749999999999997,1891.5,33,OWNER,M,third-age
+6676,26,29784,24,1241,1,37920.3,monthly issuance,26,west Bohemia,170449,0,0,1,100.0,10787,131,2.865,6151.0,0,OWNER,F,half-age
+6965,26,139536,24,5814,1,36472.9,monthly issuance,27,south Moravia,117897,139,28,6,53.8,8814,107,5.25,2085.5,33,OWNER,F,forth-age
+6725,26,265320,36,7370,1,35289.8,monthly issuance,28,south Bohemia,51428,50,11,4,52.7,8402,120,3.5549999999999997,1049.0,14,OWNER,F,third-age
+7166,26,198240,24,8260,1,44644.2,monthly issuance,26,north Bohemia,118650,8,8,3,85.6,9832,114,3.9000000000000004,5958.0,13,OWNER,M,third-age
+7138,26,60000,60,1000,1,16878.6,monthly issuance,28,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,third-age
+5970,26,465072,48,9689,1,37152.4,monthly issuance,27,south Moravia,125832,151,41,5,48.3,8512,102,3.815,2175.0,43,OWNER,M,third-age
+6157,26,98592,24,4108,1,62671.9,issuance after transaction,26,central Bohemia,92084,55,29,5,46.7,10124,141,0.55,4063.0,33,OWNER,F,half-age
+6153,26,285600,60,4760,1,28194.4,weekly issuance,26,central Bohemia,95616,65,30,6,51.4,9307,118,4.14,2828.0,34,OWNER,F,half-age
+5693,26,44088,24,1837,1,44383.2,monthly issuance,26,central Bohemia,81344,61,23,6,55.3,8899,149,3.68,2737.0,27,OWNER,F,third-age
+5922,26,20220,12,1685,1,31317.9,monthly issuance,27,central Bohemia,81344,61,23,6,55.3,8899,149,3.68,2737.0,27,OWNER,F,half-age
+5959,26,107640,24,4485,1,65325.4,monthly issuance,26,central Bohemia,88884,80,26,5,46.7,8507,132,1.76,2416.5,32,OWNER,F,half-age
+5980,26,21396,12,1783,1,24782.0,monthly issuance,27,south Bohemia,58796,22,16,5,51.9,9045,124,3.365,1862.0,23,OWNER,M,half-age
+6764,26,33984,48,708,1,44465.4,monthly issuance,27,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,half-age
+5237,26,45336,24,1889,1,39839.5,monthly issuance,27,south Bohemia,51428,50,11,4,52.7,8402,120,3.5549999999999997,1049.0,14,OWNER,M,half-age
+6726,26,85860,60,1431,1,39366.8,monthly issuance,27,central Bohemia,88884,80,26,5,46.7,8507,132,1.76,2416.5,32,OWNER,F,third-age
+6933,26,188688,48,3931,1,23579.7,monthly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,half-age
+5145,26,309552,48,6449,1,51799.4,monthly issuance,26,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,forth-age
+7008,26,36168,12,3014,1,29138.1,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+7227,26,314520,60,5242,1,50517.0,weekly issuance,27,east Bohemia,105606,77,26,7,53.0,8254,97,3.275,2245.5,33,OWNER,F,third-age
+6600,26,21852,36,607,1,42899.4,monthly issuance,26,north Bohemia,125236,28,11,5,87.7,9675,100,7.055,5256.5,12,OWNER,M,third-age
+6712,26,266220,60,4437,1,38159.6,monthly issuance,27,south Bohemia,70646,94,14,4,58.4,8547,120,3.145,1552.5,17,OWNER,F,half-age
+7057,26,231696,36,6436,1,47174.7,weekly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+7176,26,260028,36,7223,1,69850.9,monthly issuance,27,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,M,half-age
+7304,26,419880,60,6998,1,24704.4,weekly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,third-age
+6362,26,37908,12,3159,1,46113.5,monthly issuance,27,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,F,half-age
+5880,26,73836,36,2051,1,67453.1,monthly issuance,26,north Bohemia,119895,17,4,4,89.9,10446,90,8.370000000000001,4845.0,7,OWNER,F,half-age
+6535,26,41952,12,3496,1,24672.8,monthly issuance,27,east Bohemia,161854,73,21,6,76.3,9425,125,2.11,3988.0,27,OWNER,M,half-age
+5449,26,99336,24,4139,1,30838.7,monthly issuance,26,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,F,half-age
+6342,25,60156,36,1671,-1,132316.8,monthly issuance,26,south Bohemia,93931,74,21,8,56.9,8427,107,1.33,1893.5,31,OWNER,M,half-age
+5409,25,182040,60,3034,1,38747.5,monthly issuance,26,south Bohemia,51428,50,11,4,52.7,8402,120,3.5549999999999997,1049.0,14,OWNER,F,third-age
+6955,25,244368,48,5091,1,86194.1,issuance after transaction,27,south Moravia,114200,101,41,4,43.7,8403,105,5.73,2437.5,45,OWNER,M,half-age
+6985,25,113796,36,3161,1,34054.0,issuance after transaction,26,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,half-age
+5125,25,73056,48,1522,1,21545.7,monthly issuance,26,north Bohemia,119895,17,4,4,89.9,10446,90,8.370000000000001,4845.0,7,OWNER,M,half-age
+5805,25,137904,24,5746,-1,35159.7,monthly issuance,26,central Bohemia,75637,35,36,7,36.5,9622,154,0.52,3502.0,45,OWNER,M,half-age
+6185,25,31176,24,1299,1,50647.1,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+7243,25,217152,36,6032,1,42293.9,monthly issuance,26,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,half-age
+6403,25,194880,48,4060,1,31007.0,monthly issuance,27,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,half-age
+6578,25,27984,12,2332,1,18380.5,weekly issuance,27,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,third-age
+5413,25,92976,24,3874,1,21531.8,weekly issuance,27,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,F,half-age
+6949,25,104712,24,4363,1,30115.3,weekly issuance,27,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,F,half-age
+6545,25,191880,60,3198,1,78521.0,monthly issuance,26,south Bohemia,103347,87,16,7,67.0,9104,123,1.79,2326.5,23,OWNER,M,third-age
+6178,25,232560,48,4845,1,41243.5,issuance after transaction,26,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,F,half-age
+5160,25,204000,60,3400,1,37992.7,monthly issuance,26,east Bohemia,77917,85,19,5,53.5,8390,132,2.585,2101.0,25,OWNER,M,third-age
+6785,25,125340,60,2089,1,19007.0,weekly issuance,27,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,third-age
+6540,25,309600,48,6450,1,35488.1,weekly issuance,26,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,half-age
+6589,25,189696,24,7904,1,88632.1,weekly issuance,26,south Bohemia,51428,50,11,4,52.7,8402,120,3.5549999999999997,1049.0,14,OWNER,M,third-age
+5900,25,135360,48,2820,1,54868.9,monthly issuance,26,east Bohemia,102609,75,33,6,52.0,8187,94,5.140000000000001,2128.5,35,OWNER,M,half-age
+5999,25,98832,48,2059,1,27169.8,monthly issuance,27,east Bohemia,95907,87,25,7,59.1,8388,87,2.675,1663.0,30,OWNER,F,half-age
+6043,25,20352,48,424,1,21281.5,monthly issuance,26,south Moravia,109164,98,16,4,63.6,8757,96,3.665,2341.5,22,OWNER,F,third-age
+5482,25,165120,60,2752,1,22745.4,monthly issuance,27,east Bohemia,121947,37,28,11,70.5,8541,131,2.74,3667.5,35,OWNER,F,third-age
+7263,25,89880,24,3745,1,39079.5,weekly issuance,26,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,M,half-age
+6013,25,128988,36,3583,-1,9680.2,weekly issuance,27,south Bohemia,70646,94,14,4,58.4,8547,120,3.145,1552.5,17,OWNER,M,forth-age
+5750,25,63252,12,5271,1,49709.2,monthly issuance,27,central Bohemia,94725,38,28,6,63.4,9920,130,2.565,4567.5,29,OWNER,F,third-age
+6027,25,61656,24,2569,-1,59695.5,weekly issuance,26,central Bohemia,53921,61,22,2,41.3,8598,123,3.0149999999999997,1736.0,23,OWNER,F,third-age
+6303,25,72408,24,3017,-1,36363.9,issuance after transaction,26,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,F,half-age
+7213,25,113544,36,3154,1,13386.8,monthly issuance,26,south Moravia,114200,101,41,4,43.7,8403,105,5.73,2437.5,45,OWNER,M,third-age
+6659,25,56100,60,935,1,15407.2,monthly issuance,26,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,half-age
+6175,25,290700,60,4845,-1,11574.8,monthly issuance,26,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,F,half-age
+5610,25,123216,48,2567,1,77580.8,monthly issuance,27,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,F,half-age
+5563,25,380160,60,6336,1,24549.6,monthly issuance,27,north Moravia,323870,0,0,1,100.0,10673,100,5.095000000000001,18564.5,0,OWNER,M,third-age
+5989,25,213300,36,5925,1,27326.7,monthly issuance,26,east Bohemia,162580,83,26,6,72.8,9538,111,1.6600000000000001,5744.5,31,OWNER,M,half-age
+6698,25,247728,48,5161,1,52551.7,weekly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+5312,25,202788,36,5633,1,81623.6,weekly issuance,26,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,F,third-age
+7189,25,154656,48,3222,1,37180.5,monthly issuance,26,north Moravia,161227,5,35,10,69.7,8678,102,5.75,4787.5,46,OWNER,M,half-age
+6816,25,100224,48,2088,-1,31387.1,monthly issuance,25,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,half-age
+6137,25,44628,12,3719,1,80439.7,weekly issuance,27,central Bohemia,53921,61,22,2,41.3,8598,123,3.0149999999999997,1736.0,23,OWNER,M,third-age
+5128,25,215616,48,4492,-1,8640.6,monthly issuance,26,north Moravia,42821,4,13,3,48.4,8173,124,5.398506493506494,3194.4155844155844,18,OWNER,M,half-age
+5470,25,200976,48,4187,1,47431.4,monthly issuance,26,south Moravia,114200,101,41,4,43.7,8403,105,5.73,2437.5,45,OWNER,M,third-age
+5593,25,277884,36,7719,-1,11614.0,monthly issuance,27,east Bohemia,105606,77,26,7,53.0,8254,97,3.275,2245.5,33,OWNER,F,half-age
+5350,25,249312,48,5194,1,55426.5,weekly issuance,26,west Bohemia,170449,0,0,1,100.0,10787,131,2.865,6151.0,0,OWNER,M,third-age
+6063,25,320976,48,6687,-1,46462.2,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,forth-age
+6501,25,30276,12,2523,-1,24930.3,monthly issuance,26,south Bohemia,103347,87,16,7,67.0,9104,123,1.79,2326.5,23,OWNER,F,forth-age
+5452,25,49440,60,824,1,45021.6,monthly issuance,26,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,half-age
+4961,25,30276,12,2523,-1,15854.0,monthly issuance,26,south Bohemia,103347,87,16,7,67.0,9104,123,1.79,2326.5,23,OWNER,F,forth-age
+4973,25,165960,24,6915,1,23703.8,monthly issuance,27,south Bohemia,93931,74,21,8,56.9,8427,107,1.33,1893.5,31,OWNER,F,third-age
+6190,25,123600,60,2060,1,15520.2,monthly issuance,26,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,M,half-age
+6715,25,220620,60,3677,1,26332.6,monthly issuance,26,south Bohemia,70646,94,14,4,58.4,8547,120,3.145,1552.5,17,OWNER,F,third-age
+5892,25,66480,24,2770,-1,34891.2,weekly issuance,25,north Moravia,182027,17,49,7,56.4,8746,90,3.535,4394.0,61,OWNER,M,forth-age
+6550,25,320592,48,6679,1,69148.6,monthly issuance,26,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,F,half-age
+5706,25,161496,36,4486,1,29371.5,weekly issuance,27,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,half-age
+5148,25,284280,60,4738,1,94617.3,monthly issuance,26,north Bohemia,114006,71,26,9,62.3,9065,123,4.925,4156.5,32,OWNER,F,half-age
+6734,25,173016,36,4806,1,113931.6,weekly issuance,26,south Bohemia,177686,69,27,9,74.8,10045,135,1.565,6449.5,37,OWNER,F,third-age
+6109,25,368880,60,6148,1,105712.4,monthly issuance,27,south Moravia,125832,151,41,5,48.3,8512,102,3.815,2175.0,43,OWNER,M,half-age
+6961,25,176148,36,4893,1,53592.6,monthly issuance,25,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,F,half-age
+6810,25,186384,48,3883,1,20960.7,weekly issuance,27,north Bohemia,128118,9,16,8,85.3,9317,97,6.78,6910.5,22,OWNER,M,half-age
+5494,25,360000,48,7500,1,64765.2,issuance after transaction,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,half-age
+5311,25,30060,60,501,1,48523.3,monthly issuance,27,west Bohemia,72541,66,26,8,36.9,8594,112,1.815,1552.5,36,OWNER,M,third-age
+5445,25,46320,24,1930,1,23552.7,monthly issuance,26,north Bohemia,133777,24,17,11,84.7,8705,116,6.68,4754.5,24,OWNER,M,half-age
+5301,25,141948,36,3943,1,47239.7,monthly issuance,25,north Moravia,228848,15,40,6,57.2,9893,96,4.404999999999999,5755.0,58,OWNER,F,third-age
+7034,25,19044,36,529,1,50167.6,monthly issuance,26,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,F,half-age
+6751,25,85716,36,2381,1,52416.9,monthly issuance,25,south Bohemia,74062,99,15,7,61.4,8114,119,2.5,1092.0,19,OWNER,M,forth-age
+6667,25,155880,24,6495,1,44564.6,monthly issuance,27,north Bohemia,114006,71,26,9,62.3,9065,123,4.925,4156.5,32,OWNER,F,half-age
+6130,25,32640,48,680,1,18800.0,monthly issuance,26,east Bohemia,161854,73,21,6,76.3,9425,125,2.11,3988.0,27,OWNER,M,third-age
+5429,25,20196,36,561,1,65684.6,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+5725,25,444864,48,9268,1,41743.9,monthly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,half-age
+6019,25,11400,12,950,1,27820.2,monthly issuance,26,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,F,half-age
+6421,25,96768,36,2688,1,37396.4,monthly issuance,26,north Bohemia,85852,41,23,4,59.8,8965,104,7.655,2737.5,27,OWNER,F,half-age
+6992,25,133968,48,2791,1,34729.5,monthly issuance,26,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,third-age
+5136,25,187104,24,7796,1,86877.7,monthly issuance,25,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,F,half-age
+5337,25,162468,36,4513,1,74638.8,monthly issuance,25,north Bohemia,105058,32,19,10,81.0,9272,118,3.01,4422.5,26,OWNER,F,half-age
+5495,25,89340,60,1489,1,41537.2,monthly issuance,26,south Moravia,110643,49,41,4,51.9,8441,115,3.9650000000000003,2065.5,45,OWNER,F,half-age
+7013,25,89340,60,1489,1,42242.2,monthly issuance,26,south Moravia,110643,49,41,4,51.9,8441,115,3.9650000000000003,2065.5,45,OWNER,F,half-age
+6012,25,258444,36,7179,1,53892.1,weekly issuance,25,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+6471,25,155640,24,6485,1,40509.2,monthly issuance,26,central Bohemia,95616,65,30,6,51.4,9307,118,4.14,2828.0,34,OWNER,F,third-age
+6296,25,270384,48,5633,1,57835.1,monthly issuance,26,central Bohemia,75232,55,26,5,41.7,8980,111,2.08,2818.5,30,OWNER,M,half-age
+7305,25,54024,12,4502,1,25682.6,monthly issuance,27,south Moravia,117897,139,28,6,53.8,8814,107,5.25,2085.5,33,OWNER,M,half-age
+6144,25,44376,12,3698,1,68241.5,monthly issuance,25,south Bohemia,58796,22,16,5,51.9,9045,124,3.365,1862.0,23,OWNER,M,half-age
+6283,25,85632,48,1784,1,117238.7,monthly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,third-age
+7246,25,148920,60,2482,1,15278.6,weekly issuance,25,south Moravia,108871,41,29,6,62.1,8444,106,3.3550000000000004,2450.0,36,OWNER,M,half-age
+5088,25,91152,24,3798,1,39378.8,monthly issuance,26,north Bohemia,105058,32,19,10,81.0,9272,118,3.01,4422.5,26,OWNER,M,third-age
+5988,25,141648,24,5902,1,123310.1,monthly issuance,25,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,M,third-age
+5282,25,388512,48,8094,-1,38697.3,issuance after transaction,26,north Moravia,42821,4,13,3,48.4,8173,124,5.398506493506494,3194.4155844155844,18,OWNER,F,half-age
+5938,25,402000,60,6700,1,17232.1,monthly issuance,26,central Bohemia,149893,63,29,6,67.4,9753,109,4.845,5568.0,35,OWNER,M,half-age
+5606,25,253512,36,7042,-1,13318.4,weekly issuance,25,south Moravia,108871,41,29,6,62.1,8444,106,3.3550000000000004,2450.0,36,OWNER,F,third-age
+5385,25,71460,36,1985,1,49663.5,monthly issuance,25,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6865,25,29448,12,2454,-1,43790.6,monthly issuance,25,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,M,third-age
+5586,25,48744,36,1354,1,62891.3,monthly issuance,25,north Moravia,148545,8,35,4,53.5,8909,113,4.785,3525.0,47,OWNER,F,half-age
+6302,25,181020,60,3017,1,42526.0,monthly issuance,26,east Bohemia,78955,50,24,9,59.0,9060,124,2.11,1686.0,32,OWNER,F,half-age
+7194,25,68832,36,1912,1,51540.7,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+6461,25,74124,36,2059,1,25658.0,weekly issuance,26,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,F,forth-age
+6732,25,174048,48,3626,1,54140.4,monthly issuance,26,east Bohemia,162580,83,26,6,72.8,9538,111,1.6600000000000001,5744.5,31,OWNER,F,third-age
+6613,25,84120,24,3505,1,45528.9,weekly issuance,25,north Moravia,42821,4,13,3,48.4,8173,124,5.398506493506494,3194.4155844155844,18,OWNER,F,third-age
+7036,25,194940,36,5415,1,34212.3,monthly issuance,26,central Bohemia,112065,95,19,8,69.4,11277,127,1.345,5083.0,26,OWNER,M,half-age
+5897,25,15192,24,633,1,17351.9,monthly issuance,26,west Bohemia,122603,25,21,8,80.0,8991,128,1.6999999999999997,5235.5,27,OWNER,F,half-age
+6995,25,96168,12,8014,1,3609.3,weekly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,F,half-age
+5415,25,139464,36,3874,-1,65062.8,monthly issuance,26,north Moravia,182027,17,49,7,56.4,8746,90,3.535,4394.0,61,OWNER,M,half-age
+7136,25,54396,36,1511,1,36208.8,monthly issuance,25,south Moravia,110643,49,41,4,51.9,8441,115,3.9650000000000003,2065.5,45,OWNER,M,forth-age
+7271,25,392460,60,6541,1,53259.7,monthly issuance,26,central Bohemia,107870,84,29,6,58.0,8754,137,4.07,3836.0,35,OWNER,F,half-age
+5375,25,101520,12,8460,1,16720.8,monthly issuance,25,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+5635,25,77184,36,2144,1,22446.0,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,third-age
+6817,25,70656,48,1472,1,22476.1,monthly issuance,25,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,third-age
+5923,25,64656,48,1347,1,44749.0,monthly issuance,25,west Bohemia,67298,71,19,7,43.8,8561,110,0.97,1078.0,29,OWNER,M,third-age
+5329,25,396120,60,6602,1,88610.1,weekly issuance,26,south Bohemia,51428,50,11,4,52.7,8402,120,3.5549999999999997,1049.0,14,OWNER,F,third-age
+6644,25,93600,24,3900,1,26235.8,monthly issuance,25,central Bohemia,81344,61,23,6,55.3,8899,149,3.68,2737.0,27,OWNER,M,half-age
+6354,25,22968,36,638,1,38831.0,monthly issuance,25,south Bohemia,93931,74,21,8,56.9,8427,107,1.33,1893.5,31,OWNER,F,third-age
+5082,25,262980,60,4383,1,76081.3,monthly issuance,26,central Bohemia,53921,61,22,2,41.3,8598,123,3.0149999999999997,1736.0,23,OWNER,F,half-age
+6585,25,372120,60,6202,1,46580.5,monthly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,third-age
+6921,25,86184,12,7182,1,43157.5,monthly issuance,25,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,forth-age
+5366,25,86184,12,7182,1,39660.8,monthly issuance,25,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,forth-age
+5886,25,192744,36,5354,1,27799.1,monthly issuance,25,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,M,half-age
+5741,25,68544,24,2856,1,23759.8,weekly issuance,25,north Bohemia,114006,71,26,9,62.3,9065,123,4.925,4156.5,32,OWNER,M,half-age
+4996,25,88440,12,7370,1,78907.6,issuance after transaction,25,north Bohemia,128118,9,16,8,85.3,9317,97,6.78,6910.5,22,OWNER,F,third-age
+6015,25,110112,24,4588,1,106858.1,monthly issuance,25,south Moravia,107911,88,33,7,50.9,8240,99,3.045,1876.5,39,OWNER,M,half-age
+6309,24,110136,24,4589,1,40746.5,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
+6073,24,276300,60,4605,1,27578.1,monthly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,half-age
+6006,24,359760,60,5996,1,39959.4,monthly issuance,26,east Bohemia,161854,73,21,6,76.3,9425,125,2.11,3988.0,27,OWNER,M,half-age
+5611,24,321180,60,5353,1,37183.5,monthly issuance,25,south Bohemia,177686,69,27,9,74.8,10045,135,1.565,6449.5,37,OWNER,M,forth-age
+6944,24,46176,48,962,1,38725.1,monthly issuance,25,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,M,half-age
+7101,24,421008,48,8771,1,31168.0,monthly issuance,25,south Bohemia,177686,69,27,9,74.8,10045,135,1.565,6449.5,37,OWNER,M,third-age
+6599,24,72120,12,6010,1,98631.7,monthly issuance,26,east Bohemia,139012,59,41,10,61.9,8363,108,3.005,2681.5,49,OWNER,F,third-age
+6940,24,228276,36,6341,1,53707.9,monthly issuance,25,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,M,half-age
+5209,24,182640,48,3805,1,23898.3,monthly issuance,25,south Moravia,145688,22,41,5,40.7,8544,109,1.5750000000000002,2812.5,54,OWNER,F,third-age
+5388,24,61560,12,5130,1,20051.1,weekly issuance,25,west Bohemia,51313,34,12,4,59.2,8930,108,3.8600000000000003,1390.0,15,OWNER,M,third-age
+6011,24,179328,48,3736,1,36074.7,monthly issuance,25,south Moravia,387570,0,0,1,100.0,9897,140,1.78,18708.5,0,OWNER,M,half-age
+5591,24,155616,48,3242,1,24447.1,monthly issuance,25,central Bohemia,92084,55,29,5,46.7,10124,141,0.55,4063.0,33,OWNER,F,half-age
+7154,24,417600,60,6960,1,58638.6,issuance after transaction,26,south Moravia,157042,49,70,9,33.9,8743,111,2.1550000000000002,3776.5,88,OWNER,M,half-age
+7130,24,123408,24,5142,1,8357.1,issuance after transaction,25,north Bohemia,119895,17,4,4,89.9,10446,90,8.370000000000001,4845.0,7,OWNER,M,half-age
+6818,24,155616,48,3242,1,60694.1,monthly issuance,26,north Moravia,226122,32,50,4,62.6,8994,110,4.295,9440.0,57,OWNER,F,half-age
+5625,24,222180,60,3703,-1,59578.8,monthly issuance,25,west Bohemia,45714,52,10,6,55.6,8843,113,3.21,853.0,15,OWNER,M,forth-age
+6805,24,45024,48,938,1,38384.3,monthly issuance,25,north Moravia,285387,0,2,7,89.9,10177,81,7.1899999999999995,9993.0,10,OWNER,F,half-age
+7233,24,115812,36,3217,1,41878.1,monthly issuance,26,south Bohemia,93931,74,21,8,56.9,8427,107,1.33,1893.5,31,OWNER,M,third-age
+7308,24,129408,24,5392,1,24199.5,monthly issuance,26,north Moravia,106054,38,25,6,63.1,8110,109,6.16,3161.5,31,OWNER,F,half-age
