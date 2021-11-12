@@ -978,11 +978,11 @@ account_id,district_id,frequency,years_since_acc_open
 998,47,monthly issuance,28
 3326,5,monthly issuance,28
 2457,76,monthly issuance,28
-2549,74,monthly issuance,27
-1947,35,monthly issuance,27
-2738,41,monthly issuance,27
-1809,1,weekly issuance,27
-519,24,monthly issuance,27
+2549,74,monthly issuance,28
+1947,35,monthly issuance,28
+2738,41,monthly issuance,28
+1809,1,weekly issuance,28
+519,24,monthly issuance,28
 2665,61,monthly issuance,27
 1114,6,weekly issuance,27
 8957,1,monthly issuance,27
@@ -2149,8 +2149,8 @@ account_id,district_id,frequency,years_since_acc_open
 810,46,monthly issuance,26
 1760,53,monthly issuance,26
 2550,67,monthly issuance,26
-3572,65,monthly issuance,25
-1030,57,monthly issuance,25
+3572,65,monthly issuance,26
+1030,57,monthly issuance,26
 487,40,monthly issuance,25
 3767,1,monthly issuance,25
 348,25,monthly issuance,25
@@ -3405,10 +3405,10 @@ account_id,district_id,frequency,years_since_acc_open
 6157,34,monthly issuance,25
 1326,52,monthly issuance,25
 4286,43,monthly issuance,25
-3498,31,monthly issuance,24
-2258,3,monthly issuance,24
-3177,74,monthly issuance,24
-1638,6,weekly issuance,24
+3498,31,monthly issuance,25
+2258,3,monthly issuance,25
+3177,74,monthly issuance,25
+1638,6,weekly issuance,25
 3589,5,monthly issuance,24
 2967,38,monthly issuance,24
 3437,1,monthly issuance,24
@@ -4398,8 +4398,8 @@ account_id,district_id,frequency,years_since_acc_open
 2831,1,monthly issuance,24
 2211,61,issuance after transaction,24
 3360,71,monthly issuance,24
-1245,68,monthly issuance,23
-1348,55,monthly issuance,23
+1245,68,monthly issuance,24
+1348,55,monthly issuance,24
 2920,73,monthly issuance,23
 566,8,monthly issuance,23
 2658,27,monthly issuance,23
