@@ -2140,7 +2140,7 @@ client_id,district_id,gender,age_group
 2258,62,M,half-age
 2259,19,F,third-age
 2260,62,F,half-age
-2261,62,M,half-age
+2261,62,M,third-age
 2263,1,M,forth-age
 2264,4,M,third-age
 2265,52,M,half-age
@@ -3065,7 +3065,7 @@ client_id,district_id,gender,age_group
 3234,67,F,forth-age
 3235,46,F,third-age
 3236,28,F,half-age
-3239,7,F,adolthood
+3239,7,F,half-age
 3240,67,F,forth-age
 3241,26,M,forth-age
 3242,26,F,forth-age

@@ -69,8 +69,8 @@ card_id,disp_id,type,years_since_issued
 783,5433,junior,26
 504,3230,junior,26
 261,1629,gold,26
-296,1876,gold,25
-113,629,junior,25
+296,1876,gold,26
+113,629,junior,26
 92,508,classic,25
 1225,13268,classic,25
 393,2498,junior,25
@@ -160,7 +160,7 @@ card_id,disp_id,type,years_since_issued
 690,4479,classic,25
 374,2423,classic,25
 57,347,classic,25
-722,4684,classic,24
+722,4684,classic,25
 300,1890,classic,24
 117,649,junior,24
 541,3427,junior,24
