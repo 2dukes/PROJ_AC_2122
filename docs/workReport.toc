@@ -1,9 +1,11 @@
 \babel@toc {portuguese}{}
 \contentsline {chapter}{\numberline {1}Business Understanding}{2}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Data Understanding}{3}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Data Processing}{4}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Descriptive}{5}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Predictive}{6}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Project}{7}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Tools}{8}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Presentation}{9}{chapter.8}%
+\contentsline {section}{\numberline {2.1}Plots - Data Understanding}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Plots - Processing}{5}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Data Processing}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Descriptive}{8}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Predictive}{9}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Project}{10}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Tools}{11}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Presentation}{12}{chapter.8}%

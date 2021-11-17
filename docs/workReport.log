@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.16)  17 NOV 2021 13:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.16)  17 NOV 2021 20:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**workReport
+**workReport.tex
 (./workReport.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
@@ -375,24 +375,24 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 (./workReport.aux)
 \openout1 = `workReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -433,7 +433,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -447,9 +447,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count295
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
  (./workReport.out) (./workReport.out)
 \@outlinefile=\write3
 \openout3 = `workReport.out'.
@@ -457,7 +457,14 @@ LaTeX Info: Redefining \nameref on input line 26.
  [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1] (./
-workReport.toc)
+workReport.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
 \tf@toc=\write4
 \openout4 = `workReport.toc'.
 
@@ -465,7 +472,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78 	\newpage
+l.79 	\newpage
               	 [1
 
 ]
@@ -474,55 +481,111 @@ Cap\'{\i }tulo 1.
 
 ]
 Cap\'{\i }tulo 2.
+<../plots/dataUnderstanding/ammount_duration_scatterPlot.png, id=77, 361.35pt x
+ 361.35pt>
+File: ../plots/dataUnderstanding/ammount_duration_scatterPlot.png Graphic file 
+(type png)
+<use ../plots/dataUnderstanding/ammount_duration_scatterPlot.png>
+Package pdftex.def Info: ../plots/dataUnderstanding/ammount_duration_scatterPlo
+t.png  used on input line 139.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
 [3
 
 ]
+<../plots/dataUnderstanding/avgSalary_ammount.png, id=84, 407.5225pt x 361.35pt
+>
+File: ../plots/dataUnderstanding/avgSalary_ammount.png Graphic file (type png)
+<use ../plots/dataUnderstanding/avgSalary_ammount.png>
+Package pdftex.def Info: ../plots/dataUnderstanding/avgSalary_ammount.png  used
+ on input line 149.
+(pdftex.def)             Requested size: 163.0061pt x 144.53743pt.
+<../plots/dataUnderstanding/balance_ammount_scatterPlot.png, id=85, 407.5225pt 
+x 361.35pt>
+File: ../plots/dataUnderstanding/balance_ammount_scatterPlot.png Graphic file (
+type png)
+<use ../plots/dataUnderstanding/balance_ammount_scatterPlot.png>
+Package pdftex.def Info: ../plots/dataUnderstanding/balance_ammount_scatterPlot
+.png  used on input line 157.
+(pdftex.def)             Requested size: 163.0061pt x 144.53743pt.
+ [4 <../plots/dataUnderstanding/ammount_duration_scatterPlot.png> <../plots/dat
+aUnderstanding/avgSalary_ammount.png>]
+<../plots/processing/amount_barChart.png, id=95, 361.35pt x 361.35pt>
+File: ../plots/processing/amount_barChart.png Graphic file (type png)
+<use ../plots/processing/amount_barChart.png>
+Package pdftex.def Info: ../plots/processing/amount_barChart.png  used on input
+ line 168.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+<../plots/processing/balance_barChart.png, id=96, 361.35pt x 361.35pt>
+File: ../plots/processing/balance_barChart.png Graphic file (type png)
+<use ../plots/processing/balance_barChart.png>
+Package pdftex.def Info: ../plots/processing/balance_barChart.png  used on inpu
+t line 176.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+ [5 <../plots/dataUnderstanding/balance_ammount_scatterPlot.png> <../plots/proc
+essing/amount_barChart.png>]
+<../plots/processing/payments_barChart.png, id=106, 361.35pt x 361.35pt>
+File: ../plots/processing/payments_barChart.png Graphic file (type png)
+<use ../plots/processing/payments_barChart.png>
+Package pdftex.def Info: ../plots/processing/payments_barChart.png  used on inp
+ut line 184.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+<../plots/processing/positiveBalance_barChart.png, id=107, 361.35pt x 361.35pt>
+
+File: ../plots/processing/positiveBalance_barChart.png Graphic file (type png)
+<use ../plots/processing/positiveBalance_barChart.png>
+Package pdftex.def Info: ../plots/processing/positiveBalance_barChart.png  used
+ on input line 192.
+(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
+ [6 <../plots/processing/balance_barChart.png> <../plots/processing/payments_ba
+rChart.png> <../plots/processing/positiveBalance_barChart.png>]
 Cap\'{\i }tulo 3.
-[4
-
-]
-Cap\'{\i }tulo 4.
-[5
-
-]
-Cap\'{\i }tulo 5.
-[6
-
-]
-Cap\'{\i }tulo 6.
 [7
 
 ]
-Cap\'{\i }tulo 7.
+Cap\'{\i }tulo 4.
 [8
 
 ]
-Cap\'{\i }tulo 8.
+Cap\'{\i }tulo 5.
 [9
+
+]
+Cap\'{\i }tulo 6.
+[10
+
+]
+Cap\'{\i }tulo 7.
+[11
+
+]
+Cap\'{\i }tulo 8.
+[12
 
 ] (./workReport.aux)
 Package rerunfilecheck Info: File `workReport.out' has not changed.
-(rerunfilecheck)             Checksum: 70C49B598913206F69A7F6016A6963FE;853.
+(rerunfilecheck)             Checksum: A612540F7D49BC257BAF5A85566D907A;1197.
  ) 
 Here is how much of TeX's memory you used:
- 12271 strings out of 478994
- 186386 string characters out of 5858183
- 514653 words of memory out of 5000000
- 29568 multiletter control sequences out of 15000+600000
- 408687 words of font info for 35 fonts, out of 8000000 for 9000
+ 12400 strings out of 478994
+ 190116 string characters out of 5858183
+ 515980 words of memory out of 5000000
+ 29650 multiletter control sequences out of 15000+600000
+ 413351 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,5n,74p,241b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<
+ 71i,7n,74p,245b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/l
-ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on workReport.pdf (11 pages, 83226 bytes).
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on workReport.pdf (14 pages, 201270 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -17,7 +17,8 @@
 \usepackage[hidelinks]{hyperref}
 %\usepackage{lmodern} 
 
-\graphicspath{ {./plots/}}
+\graphicspath{ {../plots/bivariateAnalysis}{../plots/dataUnderstanding}{../plots/processing}}
+
 
 \setlength{\parskip}{\baselineskip}
 %\usepackage[top=2.5cm, bottom=2.5cm, left=3cm, right=2.5cm]{geometry}
@@ -129,6 +130,71 @@
 	\item Visual knowledge extraction.
 \end{itemize}
 
+	\section{Plots - Data Understanding}
+
+		Looking at this plot, we can observe that most of the unsuccessful loans are usually located on the left part of the chart, which means that people with low balances on their accounts are prone to fail loan payments.
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{ammount_duration_scatterPlot}	
+		\end{center}
+		\caption{Plot}
+		\label{fig:ammount_duration_scatterPlot}
+		\end{figure}
+
+		As we can see in this plot, higher duration loans result typically in higher amounts.
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{avgSalary_ammount}	
+		\end{center}
+		\caption{Plot}
+		\label{fig:avgSalary_ammount}
+		\end{figure}
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{balance_ammount_scatterPlot}	
+		\end{center}
+		\caption{Plot}
+		\label{fig:balance_ammount_scatterPlot}
+		\end{figure}
+
+
+	\section{Plots - Processing}
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{amount_barChart}	
+		\end{center}
+		\caption{Plot.}
+		\label{fig:amount_barChart}
+		\end{figure}
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{balance_barChart}	
+		\end{center}
+		\caption{Plot.}
+		\label{fig:balance_barChart}
+		\end{figure}
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{payments_barChart}	
+		\end{center}
+		\caption{Plot.}
+		\label{fig:payments_barChart}
+		\end{figure}
+
+		\begin{figure}[H]
+		\begin{center}
+		\includegraphics[scale=0.40]{positiveBalance_barChart}	
+		\end{center}
+		\caption{Plot.}
+		\label{fig:positiveBalance_barChart}
+		\end{figure}
+
 
 
 %--------------------------------------------------------------	
@@ -194,6 +260,8 @@
 	\item Collaboration tools.
 \end{itemize}
 
+
+	We are using Github for version control and collaboration. We regularly do pair programming using Visual Studio Code live sharing feature. 
 
 
 %--------------------------------------------------------------	
