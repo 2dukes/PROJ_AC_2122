@@ -55,7 +55,7 @@ loan_id,years_since_loan,amount,duration,payments,status,balance,itr_balance_per
 5072,24,196800,24,8200,,38166.1,29730.65,monthly issuance,25,central Bohemia,112065,95,19,8,69.4,11277,127,1.345,5083.0,26,OWNER,F,half-age
 6913,24,99936,24,4164,,91178.5,40232.87500000001,monthly issuance,26,Prague,1204953,0,0,1,100.0,12541,167,0.36,92392.0,0,OWNER,F,half-age
 6386,24,124344,36,3454,,66449.9,23780.975,monthly issuance,26,east Bohemia,161854,73,21,6,76.3,9425,125,2.11,3988.0,27,OWNER,F,half-age
-5634,24,39024,12,3252,,35422.1,31198.875,monthly issuance,25,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,forth-age
+5634,24,39024,12,3252,,35422.1,31198.875,monthly issuance,26,south Moravia,197099,29,41,10,74.7,9624,145,1.955,4374.5,51,OWNER,M,forth-age
 5758,24,307200,60,5120,,10058.2,54898.425,monthly issuance,25,south Moravia,107911,88,33,7,50.9,8240,99,3.045,1876.5,39,OWNER,M,half-age
 6819,24,50112,24,2088,,68352.1,45423.225,monthly issuance,24,east Bohemia,162580,83,26,6,72.8,9538,111,1.6600000000000001,5744.5,31,OWNER,M,third-age
 7088,24,239160,60,3986,,28610.8,16520.9,monthly issuance,25,west Bohemia,67298,71,19,7,43.8,8561,110,0.97,1078.0,29,OWNER,M,third-age
