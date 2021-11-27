@@ -1034,10 +1034,10 @@ account_id,district_id,frequency,years_since_acc_open
 604,12,monthly issuance,28
 6806,1,monthly issuance,28
 5927,15,monthly issuance,28
-2419,24,monthly issuance,27
-1288,11,monthly issuance,27
-3003,18,monthly issuance,27
-10131,1,monthly issuance,27
+2419,24,monthly issuance,28
+1288,11,monthly issuance,28
+3003,18,monthly issuance,28
+10131,1,monthly issuance,28
 1952,70,monthly issuance,27
 651,72,monthly issuance,27
 2989,4,monthly issuance,27
@@ -1538,9 +1538,9 @@ account_id,district_id,frequency,years_since_acc_open
 29,7,monthly issuance,27
 3752,1,monthly issuance,27
 2028,7,weekly issuance,27
-1294,71,monthly issuance,26
-106,63,monthly issuance,26
-2707,61,monthly issuance,26
+1294,71,monthly issuance,27
+106,63,monthly issuance,27
+2707,61,monthly issuance,27
 2027,19,monthly issuance,26
 3369,8,monthly issuance,26
 9731,54,issuance after transaction,26
@@ -2178,9 +2178,9 @@ account_id,district_id,frequency,years_since_acc_open
 3780,44,monthly issuance,26
 557,1,monthly issuance,26
 3490,48,monthly issuance,26
-3973,20,monthly issuance,25
-2043,46,monthly issuance,25
-2003,32,monthly issuance,25
+3973,20,monthly issuance,26
+2043,46,monthly issuance,26
+2003,32,monthly issuance,26
 728,60,monthly issuance,25
 3970,24,monthly issuance,25
 8169,29,monthly issuance,25
@@ -3469,9 +3469,9 @@ account_id,district_id,frequency,years_since_acc_open
 1943,9,monthly issuance,25
 2090,40,monthly issuance,25
 2636,18,monthly issuance,25
-14,47,monthly issuance,24
-549,5,monthly issuance,24
-143,21,monthly issuance,24
+14,47,monthly issuance,25
+549,5,monthly issuance,25
+143,21,monthly issuance,25
 79,3,monthly issuance,24
 3799,74,monthly issuance,24
 1460,54,monthly issuance,24
@@ -4426,10 +4426,10 @@ account_id,district_id,frequency,years_since_acc_open
 295,66,monthly issuance,24
 1523,52,issuance after transaction,24
 215,31,monthly issuance,24
-421,75,monthly issuance,23
-3715,74,monthly issuance,23
-934,9,monthly issuance,23
-3333,44,monthly issuance,23
+421,75,monthly issuance,24
+3715,74,monthly issuance,24
+934,9,monthly issuance,24
+3333,44,monthly issuance,24
 1798,46,monthly issuance,23
 10005,64,monthly issuance,23
 4386,51,weekly issuance,23
