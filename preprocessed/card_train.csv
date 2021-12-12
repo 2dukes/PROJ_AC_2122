@@ -18,7 +18,7 @@ card_id,disp_id,type,years_since_issued
 369,2363,classic,27
 376,2428,classic,27
 483,3115,classic,27
-174,1039,junior,26
+174,1039,junior,27
 658,4251,classic,26
 763,5138,junior,26
 778,5275,classic,26
@@ -73,7 +73,7 @@ card_id,disp_id,type,years_since_issued
 113,629,junior,26
 92,508,classic,26
 1225,13268,classic,26
-393,2498,junior,25
+393,2498,junior,26
 695,4507,classic,25
 666,4328,junior,25
 462,2978,classic,25
@@ -164,12 +164,12 @@ card_id,disp_id,type,years_since_issued
 300,1890,classic,25
 117,649,junior,25
 541,3427,junior,25
-294,1861,classic,24
-10,77,classic,24
-710,4588,junior,24
-363,2324,junior,24
-697,4518,classic,24
-433,2724,classic,24
+294,1861,classic,25
+10,77,classic,25
+710,4588,junior,25
+363,2324,junior,25
+697,4518,classic,25
+433,2724,classic,25
 642,4137,classic,24
 243,1478,classic,24
 162,967,junior,24
